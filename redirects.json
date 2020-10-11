@@ -1,0 +1,5058 @@
+[
+    {
+        "source": "/nz/:path*",
+        "destination": "/au/:path*",
+        "permanent": true
+    },
+    {
+        "source": "/catalog/product/view/id/11549/s/classic-straight-90s-blue/",
+        "destination": "/au/products/classic-straight-90-s-blue",
+        "permanent": true
+    },
+    {
+        "source": "/catalog/product/view/id/11549/s/classic-straight-90s-blue",
+        "destination": "/au/products/classic-straight-90-s-blue",
+        "permanent": true
+    },
+    {
+        "source": "/catalog/product/view/id/17336/s/dusters-old-stone/",
+        "destination": "/au/products/dusters-old-stone",
+        "permanent": true
+    },
+    {
+        "source": "/catalog/product/view/id/17336/s/dusters-old-stone",
+        "destination": "/au/products/dusters-old-stone",
+        "permanent": true
+    },
+    {
+        "source": "/alice-denim-overall",
+        "destination": "https://rollasjeans.com/au/products/alice-denim-overall",
+        "permanent": true
+    },
+    {
+        "source": "/april-daisies-dress-ink",
+        "destination": "https://rollasjeans.com/au/products/april-daisies-dress-ink",
+        "permanent": true
+    },
+    {
+        "source": "/april-dress-mini-spot-gold",
+        "destination": "https://rollasjeans.com/au/products/april-dress-mini-spot-gold",
+        "permanent": true
+    },
+    {
+        "source": "/april-stripe-dress-blu-white",
+        "destination": "https://rollasjeans.com/au/products/april-stripe-dress-blue-white",
+        "permanent": true
+    },
+    {
+        "source": "/aussie-summer-launch",
+        "destination": "https://rollasjeans.com/au/",
+        "permanent": true
+    },
+    {
+        "source": "/beach-boy-dot-shirt-dreamtime-white",
+        "destination": "https://rollasjeans.com/au/products/beach-boy-dot-shirt-dreamtime-white",
+        "permanent": true
+    },
+    {
+        "source": "/beach-boy-geo-diamond-shirt-black-berry",
+        "destination": "https://rollasjeans.com/au/products/beach-boy-shirt-geo-diamond",
+        "permanent": true
+    },
+    {
+        "source": "/beach-boy-shirt-sun-flare",
+        "destination": "https://rollasjeans.com/au/products/beach-boy-shirt-sun-flare-bone",
+        "permanent": true
+    },
+    {
+        "source": "/big-stripe-tee",
+        "destination": "https://rollasjeans.com/au/products/big-stripe-tee-freshmint",
+        "permanent": true
+    },
+    {
+        "source": "/big-stripe-tee-gold",
+        "destination": "https://rollasjeans.com/au/products/big-stripe-tee-gold",
+        "permanent": true
+    },
+    {
+        "source": "/bon-drinks-on-me-shirt-black",
+        "destination": "https://rollasjeans.com/au/products/bon-drinks-on-me-shirt-black",
+        "permanent": true
+    },
+    {
+        "source": "/bon-multi-stripe-shirt",
+        "destination": "https://rollasjeans.com/au/products/bon-multi-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/bon-party-animal-shirt-black-white",
+        "destination": "https://rollasjeans.com/au/products/bon-shirt-party-animal",
+        "permanent": true
+    },
+    {
+        "source": "/bon-shirt-fancy-sun",
+        "destination": "https://rollasjeans.com/au/products/bon-shirt-fancy-sun",
+        "permanent": true
+    },
+    {
+        "source": "/bon-shirt-fast-time-stripe-orange-stripes",
+        "destination": "https://rollasjeans.com/au/products/bon-shirt-fast-time-stripe-orange-stripes",
+        "permanent": true
+    },
+    {
+        "source": "/bon-shirt-sun-leaf",
+        "destination": "https://rollasjeans.com/au/products/bon-shirt-sun-leaf",
+        "permanent": true
+    },
+    {
+        "source": "/bon-shirt-westley-circles",
+        "destination": "https://rollasjeans.com/au/products/bon-shirt-westley-circles",
+        "permanent": true
+    },
+    {
+        "source": "/bon-shirt-westley-dots",
+        "destination": "https://rollasjeans.com/au/products/bon-shirt-westley-dots",
+        "permanent": true
+    },
+    {
+        "source": "/bon-shirt-wild-rose",
+        "destination": "https://rollasjeans.com/au/products/bon-shirt-wild-rose",
+        "permanent": true
+    },
+    {
+        "source": "/bon-surfers-paradise-shirt",
+        "destination": "https://rollasjeans.com/au/products/bon-surfers-paradise-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/brother-pocket-tee",
+        "destination": "https://rollasjeans.com/au/products/brother-pocket-tee-black",
+        "permanent": true
+    },
+    {
+        "source": "/bushfire-appeal",
+        "destination": "https://rollasjeans.com/pages/bushfire-appeal",
+        "permanent": true
+    },
+    {
+        "source": "/catalog/product/view/id/26488/s/original-straight-ash-black/",
+        "destination": "https://rollasjeans.com/au/products/original-straight-ash-black",
+        "permanent": true
+    },
+    {
+        "source": "/catalog/product/view/id/32/s/miller-tee",
+        "destination": "https://rollasjeans.com/au/products/miller-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/catalog/product/view/id/417/s/stinger-short-bondi-blue-destroy/",
+        "destination": "https://rollasjeans.com/au/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/check-slouch-blazer-navy-cream",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/checkout/cart/index/",
+        "destination": "https://rollasjeans.com/au/",
+        "permanent": true
+    },
+    {
+        "source": "/circle-logo-tee-old-gold",
+        "destination": "https://rollasjeans.com/au/products/circle-logo-tee-old-gold",
+        "permanent": true
+    },
+    {
+        "source": "/claire-blossom-dress",
+        "destination": "https://rollasjeans.com/au/products/claire-blossom-dress",
+        "permanent": true
+    },
+    {
+        "source": "/claire-linen-dress",
+        "destination": "https://rollasjeans.com/au/products/claire-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/classic-rib-tank-white-blue",
+        "destination": "https://rollasjeans.com/au/products/classic-rib-tank-white-blue",
+        "permanent": true
+    },
+    {
+        "source": "/classic-rib-tee",
+        "destination": "https://rollasjeans.com/au/products/classic-rib-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/classic-rib-tee-grey-marle-or-olive",
+        "destination": "https://rollasjeans.com/au/products/classic-rib-tee-grey-marle",
+        "permanent": true
+    },
+    {
+        "source": "/classic-straight-90s-blue",
+        "destination": "https://rollasjeans.com/au/products/classic-straight-90-s-blue",
+        "permanent": true
+    },
+    {
+        "source": "/claudia-skirt-big-sur",
+        "destination": "https://rollasjeans.com/au/products/claudia-skirt-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/claudia-skirt-city-bleach",
+        "destination": "https://rollasjeans.com/au/products/claudia-skirt",
+        "permanent": true
+    },
+    {
+        "source": "/contact",
+        "destination": "https://rollasjeans.com/pages/contact-us",
+        "permanent": true
+    },
+    {
+        "source": "/cord-slouch-blazer",
+        "destination": "https://rollasjeans.com/au/products/cord-slouch-blazer",
+        "permanent": true
+    },
+    {
+        "source": "/csr",
+        "destination": "https://rollasjeans.com/pages/corporate-social-responsibility",
+        "permanent": true
+    },
+    {
+        "source": "/customer/account/",
+        "destination": "https://rollasjeans.com/au/me",
+        "permanent": true
+    },
+    {
+        "source": "/customer/account/create/",
+        "destination": "https://rollasjeans.com/au/sign-up",
+        "permanent": true
+    },
+    {
+        "source": "/customer/account/forgotpassword/",
+        "destination": "https://rollasjeans.com/au/me",
+        "permanent": true
+    },
+    {
+        "source": "/daria-denim-shirt",
+        "destination": "https://rollasjeans.com/au/products/daria-denim-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/daria-linen-shirt-white",
+        "destination": "https://rollasjeans.com/au/products/daria-linen-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/daria-shirt",
+        "destination": "https://rollasjeans.com/au/products/daria-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/daria-stripe-shirt",
+        "destination": "https://rollasjeans.com/au/products/daria-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/decor-logo-tee-navy",
+        "destination": "https://rollasjeans.com/au/products/decor-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/delilah-daisies-blouse-olive",
+        "destination": "https://rollasjeans.com/au/products/delilah-daisies-blouse-olive",
+        "permanent": true
+    },
+    {
+        "source": "/denim-jacket-brut-black",
+        "destination": "https://rollasjeans.com/au/products/denim-jacket-brut-black",
+        "permanent": true
+    },
+    {
+        "source": "/denim-jacket-cali-bleach",
+        "destination": "https://rollasjeans.com/au/products/denim-jacket-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/denim-jacket-eco-heavy-stone",
+        "destination": "https://rollasjeans.com/au/products/denim-jacket-eco-heavy-stone",
+        "permanent": true
+    },
+    {
+        "source": "/denim-sherpa-polar-blue",
+        "destination": "https://rollasjeans.com/au/products/denim-sherpa-polar-blue",
+        "permanent": true
+    },
+    {
+        "source": "/denim-sherpa-truckers-dust-blue",
+        "destination": "https://rollasjeans.com/au/products/denim-sherpa-truckers-dust-blue",
+        "permanent": true
+    },
+    {
+        "source": "/desert-cap-white-cord",
+        "destination": "https://rollasjeans.com/au/products/white-desert-cord-cap-white-cord",
+        "permanent": true
+    },
+    {
+        "source": "/desert-cap-yellow-cord",
+        "destination": "https://rollasjeans.com/au/products/yellow-desert-cord-cap-yellow-cord",
+        "permanent": true
+    },
+    {
+        "source": "/dianne-rose-garden-camisole-blue",
+        "destination": "https://rollasjeans.com/au/products/dianne-rose-garden-camisole",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-big-sur",
+        "destination": "https://rollasjeans.com/au/products/dusters-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-comfort-jet-black",
+        "destination": "https://rollasjeans.com/au/products/dusters-comfort-black",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-old-stone",
+        "destination": "https://rollasjeans.com/au/products/dusters-old-stone",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-rolla-s-black-cord",
+        "destination": "https://rollasjeans.com/au/products/dusters-rolla-s-black-cord",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-short-ashley-blue",
+        "destination": "https://rollasjeans.com/au/products/dusters-short-ashley-blue",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-short-black-dust",
+        "destination": "https://rollasjeans.com/au/products/dusters-short-black-dust",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-short-button-black",
+        "destination": "https://rollasjeans.com/au/products/dusters-short-button-black",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-short-cindy-blue",
+        "destination": "https://rollasjeans.com/au/products/dusters-short-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-short-layla-bleach",
+        "destination": "https://rollasjeans.com/au/products/dusters-short-layla-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-short-sunday-blue",
+        "destination": "https://rollasjeans.com/au/products/dusters-short-sunday-blue",
+        "permanent": true
+    },
+    {
+        "source": "/dusters-short-vintage-white",
+        "destination": "https://rollasjeans.com/au/products/dusters-short-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-ankle-franki-blue",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-ankle-franki-blue",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-ankle-galaxy-black",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-ankle-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-ankle-galaxy-rip",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-ankle-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-ankle-ocean-blue",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-ankle-ocean-blue",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-ankle-ocean-worn",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-ankle-ocean-worn",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-ankle-stacey-blue",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-ankle-stacey-blue",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-crop-flare-cindy-blue",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-crop-flare-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-ava-blue",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-ava-blue",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-bordeaux-cord",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-bordeaux-cord",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-brown-cord",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-brown-cord",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-french-blue-cord",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-french-blue-cord",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-galaxy-black",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-heather-cord",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-heather-cord",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-karen-blue",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-karen-blue",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-lilac-cord",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-lilac-cord",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-midnight-cord",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-midnight-cord",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-overall",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-overall-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-overall-eco-judy-blue",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-overall-eco-judy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-overall-galaxy-black",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-overall-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-overall-sadie-blue",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-overall-sadie-blue",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-seagrass-cord",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-seagrass-cord",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-tan-cord",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-tan-cord",
+        "permanent": true
+    },
+    {
+        "source": "/eastcoast-flare-tash-blue",
+        "destination": "https://rollasjeans.com/au/products/eastcoast-flare-tash-blue",
+        "permanent": true
+    },
+    {
+        "source": "/ella-blouse-golden-flowers",
+        "destination": "https://rollasjeans.com/au/products/l-s-ella-rambling-rose-blouse-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/ella-daisies-blouse",
+        "destination": "https://rollasjeans.com/au/products/ella-daisies-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/ella-rose-garden-blouse-blue",
+        "destination": "https://rollasjeans.com/au/products/ella-rose-garden-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/elle-jean-eva-blue",
+        "destination": "https://rollasjeans.com/au/products/elle-jean-eva-blue",
+        "permanent": true
+    },
+    {
+        "source": "/elle-jean-vintage-white",
+        "destination": "https://rollasjeans.com/au/products/elle-jean-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/erin-coast-floral-dress",
+        "destination": "https://rollasjeans.com/au/products/erin-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/erin-rambling-rose-dress",
+        "destination": "https://rollasjeans.com/au/products/erin-rambling-rose-dress",
+        "permanent": true
+    },
+    {
+        "source": "/eve-linen-dress",
+        "destination": "https://rollasjeans.com/au/products/eve-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/eve-linen-dress-olive",
+        "destination": "https://rollasjeans.com/au/products/eve-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/eve-tapestry-dress-multi",
+        "destination": "https://rollasjeans.com/au/products/eve-tapestry-dress-multi",
+        "permanent": true
+    },
+    {
+        "source": "/eve-top-mini-spot",
+        "destination": "https://rollasjeans.com/au/products/eve-top-mini-spot-brown",
+        "permanent": true
+    },
+    {
+        "source": "/fader-stripe-tee-ink",
+        "destination": "https://rollasjeans.com/au/products/fader-stripe-tee",
+        "permanent": true
+    },
+    {
+        "source": "/fits-guide",
+        "destination": "https://rollasjeans.com/pages/womens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/fits-guide-detail-men",
+        "destination": "https://rollasjeans.com/pages/mens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/fits-guide-men",
+        "destination": "https://rollasjeans.com/pages/mens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/fits-guide/",
+        "destination": "https://rollasjeans.com/pages/womens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/fosters-flock-tee-trade-blue",
+        "destination": "https://rollasjeans.com/au/products/fosters-flock-tee-trade-blue",
+        "permanent": true
+    },
+    {
+        "source": "/fosters-lager-bucket-hat-vintage-white",
+        "destination": "https://rollasjeans.com/au/products/fosters-lager-bucket-hat-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/fosters-lager-bucket-hat-washed-blue",
+        "destination": "https://rollasjeans.com/au/products/fosters-lager-bucket-hat-washed-blue",
+        "permanent": true
+    },
+    {
+        "source": "/fosters-lager-cord-cap-vintage-white",
+        "destination": "https://rollasjeans.com/au/products/fosters-lager-cord-cap-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/fosters-lager-washed-tank-vintage-white",
+        "destination": "https://rollasjeans.com/au/products/fosters-lager-washed-tank-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/fosters-lager-washed-tee-vintage-white",
+        "destination": "https://rollasjeans.com/au/products/fosters-lager-washed-tee-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/gabby-slouch-blazer",
+        "destination": "https://rollasjeans.com/au/products/gabby-slouch-blazer",
+        "permanent": true
+    },
+    { "source": "/gift-card", "destination": "https://rollasjeans.com/au/", "permanent": true },
+    {
+        "source": "/halter-coast-floral-dress",
+        "destination": "https://rollasjeans.com/au/products/halter-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/halter-daisies-dress",
+        "destination": "https://rollasjeans.com/au/products/halter-daisies-dress",
+        "permanent": true
+    },
+    {
+        "source": "/halter-dress-mini-spot",
+        "destination": "https://rollasjeans.com/au/products/halter-dress-mini-spot-brown",
+        "permanent": true
+    },
+    {
+        "source": "/heidi-pant-grandpa-check",
+        "destination": "https://rollasjeans.com/au/products/heidi-pant-grandpa-check",
+        "permanent": true
+    },
+    {
+        "source": "/high-mini-comfort-shadow",
+        "destination": "https://rollasjeans.com/au/products/high-mini-comfort-shadow",
+        "permanent": true
+    },
+    {
+        "source": "/high-mini-old-blue",
+        "destination": "https://rollasjeans.com/au/products/high-mini",
+        "permanent": true
+    },
+    {
+        "source": "/high-mini-pam-blue",
+        "destination": "https://rollasjeans.com/au/products/high-mini",
+        "permanent": true
+    },
+    {
+        "source": "/horizon-check-pant-navy-cream",
+        "destination": "https://rollasjeans.com/au/products/horizon-check-pant",
+        "permanent": true
+    },
+    {
+        "source": "/horizon-cord-pant",
+        "destination": "https://rollasjeans.com/au/products/horizon-cord-pant",
+        "permanent": true
+    },
+    {
+        "source": "/horizon-linen-pant-hot-pink",
+        "destination": "https://rollasjeans.com/au/products/horizon-linen-pant-hot-pink",
+        "permanent": true
+    },
+    {
+        "source": "/horizon-linen-pant-natural",
+        "destination": "https://rollasjeans.com/au/products/horizon-linen-pant-natural",
+        "permanent": true
+    },
+    {
+        "source": "/horizon-linen-short-stone",
+        "destination": "https://rollasjeans.com/au/products/horizon-linen-short-stone",
+        "permanent": true
+    },
+    {
+        "source": "/horizon-playsuit",
+        "destination": "https://rollasjeans.com/au/products/horizon-playsuit",
+        "permanent": true
+    },
+    {
+        "source": "/horizon-playsuit-black",
+        "destination": "https://rollasjeans.com/au/products/horizon-playsuit-black",
+        "permanent": true
+    },
+    {
+        "source": "/horizon-short",
+        "destination": "https://rollasjeans.com/au/products/horizon-short-belle-blue",
+        "permanent": true
+    },
+    {
+        "source": "/instagram",
+        "destination": "https://rollasjeans.com/instagram/rollasjeans",
+        "permanent": true
+    },
+    {
+        "source": "/jane-stripe-slouch-shirt-ocean",
+        "destination": "https://rollasjeans.com/au/products/jane-stripe-slouch-shirt-ocean",
+        "permanent": true
+    },
+    {
+        "source": "/jasmine-linen-dress-cream",
+        "destination": "https://rollasjeans.com/au/products/jasmine-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/jasmine-rose-garden-dress-blue",
+        "destination": "https://rollasjeans.com/au/products/jasmine-rose-garden-dress",
+        "permanent": true
+    },
+    {
+        "source": "/l-s-ella-rambling-rose-blouse-french-blue",
+        "destination": "https://rollasjeans.com/au/products/l-s-ella-rambling-rose-blouse-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/l-s-roxy-dress-black-cord",
+        "destination": "https://rollasjeans.com/au/products/l-s-roxy-dress-black-cord",
+        "permanent": true
+    },
+    {
+        "source": "/laura-sweater-rolla-s-blue",
+        "destination": "https://rollasjeans.com/au/products/laura-sweater-rolla-s-blue",
+        "permanent": true
+    },
+    {
+        "source": "/laura-sweater-vanilla",
+        "destination": "https://rollasjeans.com/au/products/laura-sweater-vanilla",
+        "permanent": true
+    },
+    {
+        "source": "/linen-milla-tank-dress",
+        "destination": "https://rollasjeans.com/au/products/linen-milla-tank-dress-white",
+        "permanent": true
+    },
+    {
+        "source": "/love-letters-to-ondine",
+        "destination": "https://rollasjeans.com/au/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/melb-bitter-flock-tee-burgundy",
+        "destination": "https://rollasjeans.com/au/products/melb-bitter-flock-tee-burgundy",
+        "permanent": true
+    },
+    {
+        "source": "/melbourne-bitter-washed-tank-vintage-red",
+        "destination": "https://rollasjeans.com/au/products/melbourne-bitter-washed-tank-vintage-red",
+        "permanent": true
+    },
+    {
+        "source": "/men-at-work-cord-shirt",
+        "destination": "https://rollasjeans.com/au/products/men-at-work-cord-shirt-moss",
+        "permanent": true
+    },
+    {
+        "source": "/men-at-work-hemp-denim-shirt",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-shirts",
+        "permanent": true
+    },
+    {
+        "source": "/men-at-work-herringbone-shirt",
+        "destination": "https://rollasjeans.com/au/products/men-at-work-herringbone-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/men-at-work-l-s-stripe-shirt",
+        "destination": "https://rollasjeans.com/au/products/men-at-work-l-s-stripe-shirt-trade-green",
+        "permanent": true
+    },
+    {
+        "source": "/men-at-work-linen-shirt-black",
+        "destination": "https://rollasjeans.com/au/products/men-at-work-linen-shirt-black",
+        "permanent": true
+    },
+    {
+        "source": "/men-at-work-shirt-paisley-bedford",
+        "destination": "https://rollasjeans.com/au/products/men-at-work-shirt-paisley-bedford",
+        "permanent": true
+    },
+    {
+        "source": "/men-at-work-ss-herringbone-shirt",
+        "destination": "https://rollasjeans.com/au/products/men-at-work-herringbone-shirt-deep-water",
+        "permanent": true
+    },
+    {
+        "source": "/mens",
+        "destination": "https://rollasjeans.com/au/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/mens/apparel",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing",
+        "permanent": true
+    },
+    {
+        "source": "/mens/apparel/accessories",
+        "destination": "https://rollasjeans.com/au/collections/mens-accessories",
+        "permanent": true
+    },
+    {
+        "source": "/mens/apparel/fleece",
+        "destination": "https://rollasjeans.com/au/collections/mens/clothing/sweats",
+        "permanent": true
+    },
+    {
+        "source": "/mens/apparel/jackets",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/mens/apparel/overalls",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-overalls",
+        "permanent": true
+    },
+    {
+        "source": "/mens/apparel/pants",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-pants",
+        "permanent": true
+    },
+    {
+        "source": "/mens/apparel/shirts",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-shirts",
+        "permanent": true
+    },
+    {
+        "source": "/mens/apparel/shorts",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-shorts",
+        "permanent": true
+    },
+    {
+        "source": "/mens/apparel/t-shirts",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-tees",
+        "permanent": true
+    },
+    {
+        "source": "/mens/collections/best-sellers",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-best-sellers",
+        "permanent": true
+    },
+    {
+        "source": "/mens/collections/new-arrivals",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-new-arrivals",
+        "permanent": true
+    },
+    {
+        "source": "/mens/collections/pub-rock",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-pub-rock",
+        "permanent": true
+    },
+    {
+        "source": "/mens/collections/sale",
+        "destination": "https://rollasjeans.com/au/collections/mens-clothing-sale",
+        "permanent": true
+    },
+    {
+        "source": "/mens/jeans",
+        "destination": "https://rollasjeans.com/au/collections/mens-jeans",
+        "permanent": true
+    },
+    {
+        "source": "/mens/jeans/relaxo",
+        "destination": "https://rollasjeans.com/au/collections/mens-jeans-relaxo",
+        "permanent": true
+    },
+    {
+        "source": "/mens/jeans/stinger",
+        "destination": "https://rollasjeans.com/au/collections/mens-jeans-stinger",
+        "permanent": true
+    },
+    {
+        "source": "/mens/jeans/tim-slims",
+        "destination": "https://rollasjeans.com/au/collections/mens-jeans-tim-slims",
+        "permanent": true
+    },
+    {
+        "source": "/midsummer-mini-tulips-dress",
+        "destination": "https://rollasjeans.com/au/products/midsummer-mini-tulips-dress",
+        "permanent": true
+    },
+    {
+        "source": "/milla-coast-floral-dress",
+        "destination": "https://rollasjeans.com/au/products/milla-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/milla-daisies-dress-olive",
+        "destination": "https://rollasjeans.com/au/products/milla-daisies-dress",
+        "permanent": true
+    },
+    {
+        "source": "/miller-rib-tank",
+        "destination": "https://rollasjeans.com/au/products/miller-rib-tank",
+        "permanent": true
+    },
+    {
+        "source": "/miller-rib-tank-grey-marle",
+        "destination": "https://rollasjeans.com/au/products/miller-rib-tank-grey-marle",
+        "permanent": true
+    },
+    {
+        "source": "/miller-tee",
+        "destination": "https://rollasjeans.com/au/products/miller-tee-black",
+        "permanent": true
+    },
+    {
+        "source": "/miller-tee-white",
+        "destination": "https://rollasjeans.com/au/products/miller-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/monarch-blouse",
+        "destination": "https://rollasjeans.com/au/products/monarch-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/morrison-cord-jacket",
+        "destination": "https://rollasjeans.com/au/products/morrison-cord-jacket-black",
+        "permanent": true
+    },
+    {
+        "source": "/morrison-sherpa",
+        "destination": "https://rollasjeans.com/au/products/morrison-sherpa-black",
+        "permanent": true
+    },
+    {
+        "source": "/morrison-sherpa-jacket-honey",
+        "destination": "https://rollasjeans.com/au/products/morrison-sherpa-jacket-honey",
+        "permanent": true
+    },
+    {
+        "source": "/nz/afterpay",
+        "destination": "https://rollasjeans.com/pages/afterpay",
+        "permanent": true
+    },
+    {
+        "source": "/nz/alice-denim-overall",
+        "destination": "https://rollasjeans.com/nz/products/alice-denim-overall",
+        "permanent": true
+    },
+    {
+        "source": "/nz/april-daisies-dress-ink",
+        "destination": "https://rollasjeans.com/nz/products/april-daisies-dress-ink",
+        "permanent": true
+    },
+    {
+        "source": "/nz/april-dress-mini-spot-gold",
+        "destination": "https://rollasjeans.com/nz/products/april-dress-mini-spot-gold",
+        "permanent": true
+    },
+    {
+        "source": "/nz/april-stripe-dress-blu-white",
+        "destination": "https://rollasjeans.com/nz/products/april-stripe-dress-blue-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/aussie-summer-launch",
+        "destination": "https://rollasjeans.com/nz/",
+        "permanent": true
+    },
+    {
+        "source": "/nz/aussie-summer-launch/",
+        "destination": "https://rollasjeans.com/nz/",
+        "permanent": true
+    },
+    {
+        "source": "/nz/beach-boy-dot-shirt-dreamtime-white",
+        "destination": "https://rollasjeans.com/nz/products/beach-boy-dot-shirt-dreamtime-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/beach-boy-geo-diamond-shirt-black-berry",
+        "destination": "https://rollasjeans.com/nz/products/beach-boy-shirt-geo-diamond",
+        "permanent": true
+    },
+    {
+        "source": "/nz/beach-boy-shirt-sun-flare",
+        "destination": "https://rollasjeans.com/nz/products/beach-boy-shirt-sun-flare-bone",
+        "permanent": true
+    },
+    {
+        "source": "/nz/big-stripe-tee",
+        "destination": "https://rollasjeans.com/nz/products/big-stripe-tee-freshmint",
+        "permanent": true
+    },
+    {
+        "source": "/nz/big-stripe-tee-gold",
+        "destination": "https://rollasjeans.com/nz/products/big-stripe-tee-gold",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-drinks-on-me-shirt-black",
+        "destination": "https://rollasjeans.com/nz/products/bon-drinks-on-me-shirt-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-multi-stripe-shirt",
+        "destination": "https://rollasjeans.com/nz/products/bon-multi-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-party-animal-shirt-black-white",
+        "destination": "https://rollasjeans.com/nz/products/bon-shirt-party-animal",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-shirt-fancy-sun",
+        "destination": "https://rollasjeans.com/nz/products/bon-shirt-fancy-sun",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-shirt-fast-time-stripe-orange-stripes",
+        "destination": "https://rollasjeans.com/nz/products/bon-shirt-fast-time-stripe-orange-stripes",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-shirt-sun-leaf",
+        "destination": "https://rollasjeans.com/nz/products/bon-shirt-sun-leaf",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-shirt-westley-circles",
+        "destination": "https://rollasjeans.com/nz/products/bon-shirt-westley-circles",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-shirt-westley-dots",
+        "destination": "https://rollasjeans.com/nz/products/bon-shirt-westley-dots",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-shirt-wild-rose",
+        "destination": "https://rollasjeans.com/nz/products/bon-shirt-wild-rose",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bon-surfers-paradise-shirt",
+        "destination": "https://rollasjeans.com/nz/products/bon-surfers-paradise-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/brother-pocket-tee",
+        "destination": "https://rollasjeans.com/nz/products/brother-pocket-tee-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/bushfire-appeal",
+        "destination": "https://rollasjeans.com/pages/bushfire-appeal",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/category/view/s/mens/id/64/",
+        "destination": "https://rollasjeans.com/nz/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/category/view/s/mens/id/64/",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/26488/s/original-straight-ash-black/",
+        "destination": "https://rollasjeans.com/nz/products/original-straight-ash-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/32/s/miller-tee/",
+        "destination": "https://rollasjeans.com/nz/products/miller-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/32/s/miller-tee/category/102/",
+        "destination": "https://rollasjeans.com/nz/products/miller-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/32/s/miller-tee/category/85/",
+        "destination": "https://rollasjeans.com/nz/products/miller-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/32/s/miller-tee/category/97/",
+        "destination": "https://rollasjeans.com/nz/products/miller-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/417/",
+        "destination": "https://rollasjeans.com/nz/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/417/category/64/",
+        "destination": "https://rollasjeans.com/nz/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/417/category/76/",
+        "destination": "https://rollasjeans.com/nz/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/417/category/84/",
+        "destination": "https://rollasjeans.com/nz/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/catalog/product/view/id/417/s/stinger-short-bondi-blue-destroy/",
+        "destination": "https://rollasjeans.com/nz/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/check-slouch-blazer-navy-cream",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/nz/checkout/cart/",
+        "destination": "https://rollasjeans.com/nz/",
+        "permanent": true
+    },
+    {
+        "source": "/nz/checkout/cart/index/",
+        "destination": "https://rollasjeans.com/nz/",
+        "permanent": true
+    },
+    {
+        "source": "/nz/circle-logo-tee-old-gold",
+        "destination": "https://rollasjeans.com/nz/products/circle-logo-tee-old-gold",
+        "permanent": true
+    },
+    {
+        "source": "/nz/claire-blossom-dress",
+        "destination": "https://rollasjeans.com/nz/products/claire-blossom-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/claire-linen-dress",
+        "destination": "https://rollasjeans.com/nz/products/claire-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/classic-rib-tank-white-blue",
+        "destination": "https://rollasjeans.com/nz/products/classic-rib-tank-white-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/classic-rib-tee",
+        "destination": "https://rollasjeans.com/nz/products/classic-rib-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/classic-rib-tee-grey-marle-or-olive",
+        "destination": "https://rollasjeans.com/nz/products/classic-rib-tee-grey-marle",
+        "permanent": true
+    },
+    {
+        "source": "/nz/classic-straight-90s-blue",
+        "destination": "https://rollasjeans.com/nz/products/classic-straight-90-s-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/claudia-skirt-big-sur",
+        "destination": "https://rollasjeans.com/nz/products/claudia-skirt-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/nz/claudia-skirt-city-bleach",
+        "destination": "https://rollasjeans.com/nz/products/claudia-skirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/contact",
+        "destination": "https://rollasjeans.com/pages/contact-us",
+        "permanent": true
+    },
+    {
+        "source": "/nz/cord-slouch-blazer",
+        "destination": "https://rollasjeans.com/nz/products/cord-slouch-blazer",
+        "permanent": true
+    },
+    {
+        "source": "/nz/csr",
+        "destination": "https://rollasjeans.com/pages/corporate-social-responsibility",
+        "permanent": true
+    },
+    {
+        "source": "/nz/customer/account/",
+        "destination": "https://rollasjeans.com/nz/me",
+        "permanent": true
+    },
+    {
+        "source": "/nz/customer/account/create/",
+        "destination": "https://rollasjeans.com/nz/sign-up",
+        "permanent": true
+    },
+    {
+        "source": "/nz/customer/account/forgotpassword/",
+        "destination": "https://rollasjeans.com/nz/me",
+        "permanent": true
+    },
+    {
+        "source": "/nz/daria-denim-shirt",
+        "destination": "https://rollasjeans.com/nz/products/daria-denim-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/daria-linen-shirt-white",
+        "destination": "https://rollasjeans.com/nz/products/daria-linen-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/daria-shirt",
+        "destination": "https://rollasjeans.com/nz/products/daria-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/daria-stripe-shirt",
+        "destination": "https://rollasjeans.com/nz/products/daria-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/decor-logo-tee-navy",
+        "destination": "https://rollasjeans.com/nz/products/decor-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/nz/delilah-daisies-blouse-olive",
+        "destination": "https://rollasjeans.com/nz/products/delilah-daisies-blouse-olive",
+        "permanent": true
+    },
+    {
+        "source": "/nz/denim-jacket-brut-black",
+        "destination": "https://rollasjeans.com/nz/products/denim-jacket-brut-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/denim-jacket-cali-bleach",
+        "destination": "https://rollasjeans.com/nz/products/denim-jacket-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/nz/denim-jacket-eco-heavy-stone",
+        "destination": "https://rollasjeans.com/nz/products/denim-jacket-eco-heavy-stone",
+        "permanent": true
+    },
+    {
+        "source": "/nz/denim-sherpa-polar-blue",
+        "destination": "https://rollasjeans.com/nz/products/denim-sherpa-polar-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/denim-sherpa-truckers-dust-blue",
+        "destination": "https://rollasjeans.com/nz/products/denim-sherpa-truckers-dust-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/desert-cap-white-cord",
+        "destination": "https://rollasjeans.com/nz/products/white-desert-cord-cap-white-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/desert-cap-yellow-cord",
+        "destination": "https://rollasjeans.com/nz/products/yellow-desert-cord-cap-yellow-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dianne-rose-garden-camisole-blue",
+        "destination": "https://rollasjeans.com/nz/products/dianne-rose-garden-camisole",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-big-sur",
+        "destination": "https://rollasjeans.com/nz/products/dusters-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-comfort-jet-black",
+        "destination": "https://rollasjeans.com/nz/products/dusters-comfort-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-old-stone",
+        "destination": "https://rollasjeans.com/nz/products/dusters-old-stone",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-rolla-s-black-cord",
+        "destination": "https://rollasjeans.com/nz/products/dusters-rolla-s-black-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-short-ashley-blue",
+        "destination": "https://rollasjeans.com/nz/products/dusters-short-ashley-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-short-black-dust",
+        "destination": "https://rollasjeans.com/nz/products/dusters-short-black-dust",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-short-button-black",
+        "destination": "https://rollasjeans.com/nz/products/dusters-short-button-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-short-cindy-blue",
+        "destination": "https://rollasjeans.com/nz/products/dusters-short-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-short-layla-bleach",
+        "destination": "https://rollasjeans.com/nz/products/dusters-short-layla-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-short-sunday-blue",
+        "destination": "https://rollasjeans.com/nz/products/dusters-short-sunday-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/dusters-short-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/dusters-short-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-ankle-franki-blue",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-ankle-franki-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-ankle-galaxy-black",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-ankle-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-ankle-galaxy-rip",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-ankle-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-ankle-ocean-blue",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-ankle-ocean-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-ankle-ocean-worn",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-ankle-ocean-worn",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-ankle-stacey-blue",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-ankle-stacey-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-crop-flare-cindy-blue",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-crop-flare-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-ava-blue",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-ava-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-bordeaux-cord",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-bordeaux-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-brown-cord",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-brown-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-french-blue-cord",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-french-blue-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-galaxy-black",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-heather-cord",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-heather-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-karen-blue",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-karen-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-lilac-cord",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-lilac-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-midnight-cord",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-midnight-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-overall",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-overall-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-overall-eco-judy-blue",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-overall-eco-judy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-overall-galaxy-black",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-overall-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-overall-sadie-blue",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-overall-sadie-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-seagrass-cord",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-seagrass-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-tan-cord",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-tan-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eastcoast-flare-tash-blue",
+        "destination": "https://rollasjeans.com/nz/products/eastcoast-flare-tash-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/ella-blouse-golden-flowers",
+        "destination": "https://rollasjeans.com/nz/products/l-s-ella-rambling-rose-blouse-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/ella-daisies-blouse",
+        "destination": "https://rollasjeans.com/nz/products/ella-daisies-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/nz/ella-rose-garden-blouse-blue",
+        "destination": "https://rollasjeans.com/nz/products/ella-rose-garden-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/nz/elle-jean-eva-blue",
+        "destination": "https://rollasjeans.com/nz/products/elle-jean-eva-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/elle-jean-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/elle-jean-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/erin-coast-floral-dress",
+        "destination": "https://rollasjeans.com/nz/products/erin-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/erin-rambling-rose-dress",
+        "destination": "https://rollasjeans.com/nz/products/erin-rambling-rose-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eve-linen-dress",
+        "destination": "https://rollasjeans.com/nz/products/eve-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eve-linen-dress-olive",
+        "destination": "https://rollasjeans.com/nz/products/eve-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eve-tapestry-dress-multi",
+        "destination": "https://rollasjeans.com/nz/products/eve-tapestry-dress-multi",
+        "permanent": true
+    },
+    {
+        "source": "/nz/eve-top-mini-spot",
+        "destination": "https://rollasjeans.com/nz/products/eve-top-mini-spot-brown",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fader-stripe-tee-ink",
+        "destination": "https://rollasjeans.com/nz/products/fader-stripe-tee",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fits-guide",
+        "destination": "https://rollasjeans.com/pages/womens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fits-guide-detail-men",
+        "destination": "https://rollasjeans.com/pages/mens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fits-guide/",
+        "destination": "https://rollasjeans.com/pages/womens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fosters-flock-tee-trade-blue",
+        "destination": "https://rollasjeans.com/nz/products/fosters-flock-tee-trade-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fosters-lager-bucket-hat-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/fosters-lager-bucket-hat-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fosters-lager-bucket-hat-washed-blue",
+        "destination": "https://rollasjeans.com/nz/products/fosters-lager-bucket-hat-washed-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fosters-lager-cord-cap-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/fosters-lager-cord-cap-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fosters-lager-washed-tank-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/fosters-lager-washed-tank-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/fosters-lager-washed-tee-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/fosters-lager-washed-tee-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/gabby-slouch-blazer",
+        "destination": "https://rollasjeans.com/nz/products/gabby-slouch-blazer",
+        "permanent": true
+    },
+    {
+        "source": "/nz/gift-card",
+        "destination": "https://rollasjeans.com/nz/",
+        "permanent": true
+    },
+    {
+        "source": "/nz/halter-coast-floral-dress",
+        "destination": "https://rollasjeans.com/nz/products/halter-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/halter-daisies-dress",
+        "destination": "https://rollasjeans.com/nz/products/halter-daisies-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/halter-dress-mini-spot",
+        "destination": "https://rollasjeans.com/nz/products/halter-dress-mini-spot-brown",
+        "permanent": true
+    },
+    {
+        "source": "/nz/heidi-pant-grandpa-check",
+        "destination": "https://rollasjeans.com/nz/products/heidi-pant-grandpa-check",
+        "permanent": true
+    },
+    {
+        "source": "/nz/high-mini-comfort-shadow",
+        "destination": "https://rollasjeans.com/nz/products/high-mini-comfort-shadow",
+        "permanent": true
+    },
+    {
+        "source": "/nz/high-mini-old-blue",
+        "destination": "https://rollasjeans.com/nz/products/high-mini",
+        "permanent": true
+    },
+    {
+        "source": "/nz/horizon-check-pant-navy-cream",
+        "destination": "https://rollasjeans.com/nz/products/horizon-check-pant",
+        "permanent": true
+    },
+    {
+        "source": "/nz/horizon-cord-pant",
+        "destination": "https://rollasjeans.com/nz/products/horizon-cord-pant",
+        "permanent": true
+    },
+    {
+        "source": "/nz/horizon-linen-pant-hot-pink",
+        "destination": "https://rollasjeans.com/nz/products/horizon-linen-pant-hot-pink",
+        "permanent": true
+    },
+    {
+        "source": "/nz/horizon-linen-pant-natural",
+        "destination": "https://rollasjeans.com/nz/products/horizon-linen-pant-natural",
+        "permanent": true
+    },
+    {
+        "source": "/nz/horizon-linen-short-stone",
+        "destination": "https://rollasjeans.com/nz/products/horizon-linen-short-stone",
+        "permanent": true
+    },
+    {
+        "source": "/nz/horizon-playsuit",
+        "destination": "https://rollasjeans.com/nz/products/horizon-playsuit",
+        "permanent": true
+    },
+    {
+        "source": "/nz/horizon-playsuit-black",
+        "destination": "https://rollasjeans.com/nz/products/horizon-playsuit-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/horizon-short",
+        "destination": "https://rollasjeans.com/nz/products/horizon-short-belle-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/instagram",
+        "destination": "https://rollasjeans.com/instagram/rollasjeans",
+        "permanent": true
+    },
+    {
+        "source": "/nz/instagram/",
+        "destination": "https://rollasjeans.com/instagram/rollasjeans",
+        "permanent": true
+    },
+    {
+        "source": "/nz/jane-stripe-slouch-shirt-ocean",
+        "destination": "https://rollasjeans.com/nz/products/jane-stripe-slouch-shirt-ocean",
+        "permanent": true
+    },
+    {
+        "source": "/nz/jasmine-linen-dress-cream",
+        "destination": "https://rollasjeans.com/nz/products/jasmine-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/jasmine-rose-garden-dress-blue",
+        "destination": "https://rollasjeans.com/nz/products/jasmine-rose-garden-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/l-s-ella-rambling-rose-blouse-french-blue",
+        "destination": "https://rollasjeans.com/nz/products/l-s-ella-rambling-rose-blouse-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/l-s-roxy-dress-black-cord",
+        "destination": "https://rollasjeans.com/nz/products/l-s-roxy-dress-black-cord",
+        "permanent": true
+    },
+    {
+        "source": "/nz/laura-sweater-rolla-s-blue",
+        "destination": "https://rollasjeans.com/nz/products/laura-sweater-rolla-s-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/laura-sweater-vanilla",
+        "destination": "https://rollasjeans.com/nz/products/laura-sweater-vanilla",
+        "permanent": true
+    },
+    {
+        "source": "/nz/linen-milla-tank-dress",
+        "destination": "https://rollasjeans.com/nz/products/linen-milla-tank-dress-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/love-letters-to-ondine",
+        "destination": "https://rollasjeans.com/nz/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/nz/melb-bitter-flock-tee-burgundy",
+        "destination": "https://rollasjeans.com/nz/products/melb-bitter-flock-tee-burgundy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/melbourne-bitter-washed-tank-vintage-red",
+        "destination": "https://rollasjeans.com/nz/products/melbourne-bitter-washed-tank-vintage-red",
+        "permanent": true
+    },
+    {
+        "source": "/nz/men-at-work-cord-shirt",
+        "destination": "https://rollasjeans.com/nz/products/men-at-work-cord-shirt-moss",
+        "permanent": true
+    },
+    {
+        "source": "/nz/men-at-work-hemp-denim-shirt",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-shirts",
+        "permanent": true
+    },
+    {
+        "source": "/nz/men-at-work-herringbone-shirt",
+        "destination": "https://rollasjeans.com/nz/products/men-at-work-herringbone-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/men-at-work-l-s-stripe-shirt",
+        "destination": "https://rollasjeans.com/nz/products/men-at-work-l-s-stripe-shirt-trade-green",
+        "permanent": true
+    },
+    {
+        "source": "/nz/men-at-work-linen-shirt-black",
+        "destination": "https://rollasjeans.com/nz/products/men-at-work-linen-shirt-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/men-at-work-shirt-paisley-bedford",
+        "destination": "https://rollasjeans.com/nz/products/men-at-work-shirt-paisley-bedford",
+        "permanent": true
+    },
+    {
+        "source": "/nz/men-at-work-ss-herringbone-shirt",
+        "destination": "https://rollasjeans.com/nz/products/men-at-work-herringbone-shirt-deep-water",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens",
+        "destination": "https://rollasjeans.com/nz/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel",
+        "destination": "https://rollasjeans.com/nz/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel/accessories",
+        "destination": "https://rollasjeans.com/nz/collections/mens-accessories",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel/fleece",
+        "destination": "https://rollasjeans.com/nz/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel/jackets",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel/overalls",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-overalls",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel/pants",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-pants",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel/shirts",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-shirts",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel/shorts",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-shorts",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/apparel/t-shirts",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-tees",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/collections/best-sellers",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-best-sellers",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/collections/new-arrivals",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-new-arrivals",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/collections/pub-rock",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-pub-rock",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/collections/sale",
+        "destination": "https://rollasjeans.com/nz/collections/mens-clothing-sale",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/jeans",
+        "destination": "https://rollasjeans.com/nz/collections/mens-jeans",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/jeans/relaxo",
+        "destination": "https://rollasjeans.com/nz/collections/mens-jeans-relaxo",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/jeans/rollies",
+        "destination": "https://rollasjeans.com/nz/collections/mens-jeans-rollies",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/jeans/stinger",
+        "destination": "https://rollasjeans.com/nz/collections/mens-jeans-stinger",
+        "permanent": true
+    },
+    {
+        "source": "/nz/mens/jeans/tim-slims",
+        "destination": "https://rollasjeans.com/nz/collections/mens-jeans-tim-slims",
+        "permanent": true
+    },
+    {
+        "source": "/nz/midsummer-mini-tulips-dress",
+        "destination": "https://rollasjeans.com/nz/products/midsummer-mini-tulips-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/milla-coast-floral-dress",
+        "destination": "https://rollasjeans.com/nz/products/milla-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/milla-daisies-dress-olive",
+        "destination": "https://rollasjeans.com/nz/products/milla-daisies-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/miller-rib-tank",
+        "destination": "https://rollasjeans.com/nz/products/miller-rib-tank",
+        "permanent": true
+    },
+    {
+        "source": "/nz/miller-rib-tank-grey-marle",
+        "destination": "https://rollasjeans.com/nz/products/miller-rib-tank-grey-marle",
+        "permanent": true
+    },
+    {
+        "source": "/nz/miller-tee",
+        "destination": "https://rollasjeans.com/nz/products/miller-tee-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/miller-tee-white",
+        "destination": "https://rollasjeans.com/nz/products/miller-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/monarch-blouse",
+        "destination": "https://rollasjeans.com/nz/products/monarch-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/nz/morrison-cord-jacket",
+        "destination": "https://rollasjeans.com/nz/products/morrison-cord-jacket-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/morrison-sherpa",
+        "destination": "https://rollasjeans.com/nz/products/morrison-sherpa-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/morrison-sherpa-jacket-honey",
+        "destination": "https://rollasjeans.com/nz/products/morrison-sherpa-jacket-honey",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-check-pant",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-check-pant",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-jean-nancy-white",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-jean-nancy-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-jean-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-jean-nancy-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-logo-tee-fast-time-stripe",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-logo-tee-fast-time-stripe",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-overall-stella-blues",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-overall-stella-blues",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-overall-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-overall-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-pant-bay-blue-stripe",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-pant",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-pant-ink-stripe",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-pant",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-stripe-logo-tee",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-stripe-logo-tee-multi-stripe",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-tee-sulphur-black",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-tee-sulphur-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-mate-washed-logo-tee-charcoal-red",
+        "destination": "https://rollasjeans.com/nz/products/old-mate-washed-logo-tee-charcoal",
+        "permanent": true
+    },
+    {
+        "source": "/nz/old-school-rolla-s-jeans-tee",
+        "destination": "https://rollasjeans.com/nz/products/old-school-rolla-s-jeans-tee-moss",
+        "permanent": true
+    },
+    {
+        "source": "/nz/original-short-big-sur",
+        "destination": "https://rollasjeans.com/nz/products/original-short-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/nz/original-short-city-bleach",
+        "destination": "https://rollasjeans.com/nz/products/original-short-city-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/nz/original-short-comfort-shadow",
+        "destination": "https://rollasjeans.com/nz/products/original-short-comfort-shadow",
+        "permanent": true
+    },
+    {
+        "source": "/nz/original-short-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/original-short-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/original-straight-cindy-blue",
+        "destination": "https://rollasjeans.com/nz/products/original-straight-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/original-straight-comfort-sky",
+        "destination": "https://rollasjeans.com/nz/products/original-straight-comfort-sky",
+        "permanent": true
+    },
+    {
+        "source": "/nz/original-straight-sunday-blue",
+        "destination": "https://rollasjeans.com/nz/products/original-straight-sunday-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/party-with-sofia-richie",
+        "destination": "https://rollasjeans.com/pages/sofia-richie",
+        "permanent": true
+    },
+    {
+        "source": "/nz/patch-denim-sailor-jumpsuit-beach-blue",
+        "destination": "https://rollasjeans.com/nz/products/patch-denim-sailor-jumpsuit",
+        "permanent": true
+    },
+    {
+        "source": "/nz/patch-denim-shirt",
+        "destination": "https://rollasjeans.com/nz/products/patch-denim-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/polar-fleece-zip-neck",
+        "destination": "https://rollasjeans.com/nz/products/polar-fleece-zip-neck",
+        "permanent": true
+    },
+    {
+        "source": "/nz/recycled-cotton-tee",
+        "destination": "https://rollasjeans.com/nz/products/recycled-cotton-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-cali-bleach",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-chop-black-fade",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-chop-black-fade",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-chop-cali-bleach",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-chop-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-chop-eco-best-blue",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-chop-eco-best-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-chop-original-stone",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-chop-original-stone",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-chop-trusty-black",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-chop-trusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-cord-pant-sandman",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-cord-pant-sandman",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-cropped-pant",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-cropped-pant-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-cropped-pant-sandman",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-cropped-pant-sandman",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-eco-best-blue",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-eco-best-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-original-stone",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-original-stone",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-short-great-white",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-short-great-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-short-trusty-blue",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-short-trusty-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-trusty-black",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-trusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/relaxo-young-black",
+        "destination": "https://rollasjeans.com/nz/products/relaxo-young-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/returns",
+        "destination": "https://rollasjeans.com/pages/returns",
+        "permanent": true
+    },
+    {
+        "source": "/nz/rochelle-bustier",
+        "destination": "https://rollasjeans.com/nz/products/rochelle-bustier",
+        "permanent": true
+    },
+    {
+        "source": "/nz/rollas-desert-tee",
+        "destination": "https://rollasjeans.com/nz/products/rolla-s-desert-tee-yellow",
+        "permanent": true
+    },
+    {
+        "source": "/nz/rollas-fosters-biiter-hat-trade-blue",
+        "destination": "https://rollasjeans.com/nz/products/rollas-fosters-bitter-hat-trade-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/rollas-reds-big-logo-tee",
+        "destination": "https://rollasjeans.com/nz/products/rolla-s-reds-big-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/nz/rollas-reds-big-logo-tee-black-stone",
+        "destination": "https://rollasjeans.com/nz/products/rolla-s-reds-big-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/nz/rollas-retro-logo-tee",
+        "destination": "https://rollasjeans.com/nz/products/rollas-retro-logo-tee-off-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/rollies-bold-blue",
+        "destination": "https://rollasjeans.com/nz/products/rollies-bold-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/rollies-bondi-blue",
+        "destination": "https://rollasjeans.com/nz/products/rollies-bondi-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/rollies-hard-on-black",
+        "destination": "https://rollasjeans.com/nz/products/rollies-hard-on-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/roxanne-blossom-top",
+        "destination": "https://rollasjeans.com/nz/products/roxanne-blossom-top",
+        "permanent": true
+    },
+    {
+        "source": "/nz/roxanne-daisies-top",
+        "destination": "https://rollasjeans.com/nz/products/roxanne-daisies-top",
+        "permanent": true
+    },
+    {
+        "source": "/nz/roxanne-dress",
+        "destination": "https://rollasjeans.com/nz/products/roxanne-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/roxanne-linen-dress-white",
+        "destination": "https://rollasjeans.com/nz/products/roxanne-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/nz/roxanne-linen-top-white",
+        "destination": "https://rollasjeans.com/nz/products/roxanne-linen-top",
+        "permanent": true
+    },
+    {
+        "source": "/nz/ruby-daisies-dress-olive",
+        "destination": "https://rollasjeans.com/nz/products/ruby-daisies-dress-olive",
+        "permanent": true
+    },
+    {
+        "source": "/nz/ruffle-tank-mini-spot-gold",
+        "destination": "https://rollasjeans.com/nz/products/ruffle-tank-mini-spot-gold",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sailor-cardigan-black",
+        "destination": "https://rollasjeans.com/nz/products/sailor-cardigan",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sailor-jean-ashley-blue",
+        "destination": "https://rollasjeans.com/nz/products/sailor-jean-ashley-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sailor-jean-kim-blue",
+        "destination": "https://rollasjeans.com/nz/products/sailor-jean-kim-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sailor-jean-long-comfort-jet-black",
+        "destination": "https://rollasjeans.com/nz/products/sailor-jean-long-comfort-jet-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sailor-knit-tank",
+        "destination": "https://rollasjeans.com/nz/products/sailor-knit-tank-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sailor-linen-playsuit",
+        "destination": "https://rollasjeans.com/nz/products/sailor-linen-playsuit",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sailor-stripe-jumpsuit-blu-white",
+        "destination": "https://rollasjeans.com/nz/products/sailor-stripe-jumpsuit-blu-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sailor-sweater-olive",
+        "destination": "https://rollasjeans.com/nz/products/sailor-sweater-olive",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sailor-sweater-stone-heather",
+        "destination": "https://rollasjeans.com/nz/products/sailor-sweater-heather",
+        "permanent": true
+    },
+    {
+        "source": "/nz/shipping",
+        "destination": "https://rollasjeans.com/pages/shipping",
+        "permanent": true
+    },
+    {
+        "source": "/nz/slouch-80-s-stripe-shirt",
+        "destination": "https://rollasjeans.com/nz/products/slouch-80-s-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/slouch-coast-floral-shirt",
+        "destination": "https://rollasjeans.com/nz/products/slouch-coast-floral-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/slouch-jacket-vintage-white",
+        "destination": "https://rollasjeans.com/nz/products/slouch-jacket-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/slouch-sailor-stripe-shirt",
+        "destination": "https://rollasjeans.com/nz/products/slouch-sailor-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/slouch-stripe-shirt-white-charcoal",
+        "destination": "https://rollasjeans.com/nz/products/slouch-stripe-shirt-white-charcoal",
+        "permanent": true
+    },
+    {
+        "source": "/nz/sofia-richie",
+        "destination": "https://rollasjeans.com/pages/sofia-richie",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stephanie-coast-floral-blouse",
+        "destination": "https://rollasjeans.com/nz/products/stephanie-coast-floral-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-4-way-bleach",
+        "destination": "https://rollasjeans.com/nz/products/stinger-4-way-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-4-way-tint",
+        "destination": "https://rollasjeans.com/nz/products/stinger-4-way-tint",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-beach-blue",
+        "destination": "https://rollasjeans.com/nz/products/stinger-beach-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-black-gold",
+        "destination": "https://rollasjeans.com/nz/products/stinger-black-gold",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-black-rip",
+        "destination": "https://rollasjeans.com/nz/products/stinger-black-rip",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-fast-times-bleach",
+        "destination": "https://rollasjeans.com/nz/products/stinger-fast-times-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-fast-times-od",
+        "destination": "https://rollasjeans.com/nz/products/stinger-fast-times-od",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-ford-blue",
+        "destination": "https://rollasjeans.com/nz/products/stinger-ford-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-jean-bleach-rip",
+        "destination": "https://rollasjeans.com/nz/products/stinger-bleach-rip",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-short-beach-blue",
+        "destination": "https://rollasjeans.com/nz/products/stinger-short-beach-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-short-blowout-black",
+        "destination": "https://rollasjeans.com/nz/products/stinger-short-blowout-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-short-blue-sun-destroy",
+        "destination": "https://rollasjeans.com/nz/products/stinger-short-blue-sun-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-short-bondi-blue-destroy",
+        "destination": "https://rollasjeans.com/nz/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-true-blue",
+        "destination": "https://rollasjeans.com/nz/products/stinger-true-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stinger-white-destroy",
+        "destination": "https://rollasjeans.com/nz/products/stinger-white-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/stores",
+        "destination": "https://rollasjeans.com/pages/stores",
+        "permanent": true
+    },
+    {
+        "source": "/nz/straight-to-new-york-city",
+        "destination": "https://rollasjeans.com/pages/straight-to-new-york-city",
+        "permanent": true
+    },
+    {
+        "source": "/nz/straight-to-new-york-city/",
+        "destination": "https://rollasjeans.com/pages/straight-to-new-york-city",
+        "permanent": true
+    },
+    {
+        "source": "/nz/super-sailor-jumpsuit",
+        "destination": "https://rollasjeans.com/nz/products/super-sailor-jumpsuit",
+        "permanent": true
+    },
+    {
+        "source": "/nz/super-sailor-pant-black",
+        "destination": "https://rollasjeans.com/nz/products/super-sailor-pant-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/super-sailor-ramie-pant",
+        "destination": "https://rollasjeans.com/nz/products/super-sailor-ramie-pant",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tapestry-shirt-blouse",
+        "destination": "https://rollasjeans.com/nz/products/tapestry-shirt-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/nz/terms-conditions",
+        "destination": "https://rollasjeans.com/pages/terms-conditions",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tie-bridget-dress",
+        "destination": "https://rollasjeans.com/nz/products/tie-bridget-dress-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slim-black-raven-destroy",
+        "destination": "https://rollasjeans.com/nz/products/tim-slim-black-raven-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slim-ocean-blue",
+        "destination": "https://rollasjeans.com/nz/products/tim-slim-ocean-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slim-ocean-blue-destroy",
+        "destination": "https://rollasjeans.com/nz/products/tim-slim-ocean-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slim-short-rolled",
+        "destination": "https://rollasjeans.com/nz/products/tim-slim-short-rolled",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slim-short-rolled-devil-black-destroy",
+        "destination": "https://rollasjeans.com/nz/products/tim-slim-short-rolled-devil-black-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-black-raven",
+        "destination": "https://rollasjeans.com/nz/products/tim-slim-black-raven",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-bon-black",
+        "destination": "https://rollasjeans.com/nz/products/tim-slims-bon-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-chop-great-white",
+        "destination": "https://rollasjeans.com/nz/products/tim-slims-chop-great-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-fast-times-blue",
+        "destination": "https://rollasjeans.com/nz/products/tim-slims-fast-times-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-fast-times-worn",
+        "destination": "https://rollasjeans.com/nz/products/tim-slims-fast-times-worn",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-fast-times-worn-destroy",
+        "destination": "https://rollasjeans.com/nz/products/tim-slims-fast-times-worn-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-short-cali-blue",
+        "destination": "https://rollasjeans.com/nz/products/tim-slim-short-cali-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-short-hooch-green",
+        "destination": "https://rollasjeans.com/nz/products/tim-slim-short-hoch-green",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-thunderstruck",
+        "destination": "https://rollasjeans.com/nz/products/tim-slims-thunderstruck",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tim-slims-thunderstruck-worn",
+        "destination": "https://rollasjeans.com/nz/products/tim-slims-thunderstruck-worn",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tomboy-tee-white",
+        "destination": "https://rollasjeans.com/nz/products/tomboy-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/nz/trade-overalls-black",
+        "destination": "https://rollasjeans.com/nz/products/trade-overalls-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/tradie-check-shirt-forest-check",
+        "destination": "https://rollasjeans.com/nz/products/tradie-check-shirt-forest-check",
+        "permanent": true
+    },
+    {
+        "source": "/nz/union-bedford-cord-shirt",
+        "destination": "https://rollasjeans.com/nz/products/union-bedford-cord-shirt-trade-green",
+        "permanent": true
+    },
+    {
+        "source": "/nz/utility-linen-shirt",
+        "destination": "https://rollasjeans.com/nz/products/utility-linen-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/nz/valerie-rambling-rose-dress-french-blue",
+        "destination": "https://rollasjeans.com/nz/products/valerie-rambling-rose-dress-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/victoria-bitter-washed-tank-vintage-green",
+        "destination": "https://rollasjeans.com/nz/products/victoria-bitter-washed-tank-vintage-green",
+        "permanent": true
+    },
+    {
+        "source": "/nz/westcoast-ankle-bayside-blue",
+        "destination": "https://rollasjeans.com/nz/products/westcoast-ankle-bayside-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/westcoast-ankle-dusty-black",
+        "destination": "https://rollasjeans.com/nz/products/westcoast-ankle-dusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/nz/westcoast-ankle-kylie-blue",
+        "destination": "https://rollasjeans.com/nz/products/westcoast-ankle-kylie-blue",
+        "permanent": true
+    },
+    {
+        "source": "/nz/westcoast-ankle-kylie-worn",
+        "destination": "https://rollasjeans.com/nz/products/westcoast-ankle-kylie-worn",
+        "permanent": true
+    },
+    {
+        "source": "/nz/westcoast-ankle-raven",
+        "destination": "https://rollasjeans.com/nz/products/westcoast-ankle-raven",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens",
+        "destination": "https://rollasjeans.com/nz/collections/womens",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens",
+        "destination": "https://rollasjeans.com/nz/collections/womens-shop-by",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/apparel",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/apparel/dresses",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-dresses",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/apparel/jackets",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/apparel/knitwear",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-knits",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/apparel/one-piece",
+        "destination": "https://rollasjeans.com/nz/collections/womens",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/apparel/pants",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-pants",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/apparel/shorts",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-shorts",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/apparel/skirts",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-skirts",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/apparel/tops",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-tops",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/collections/best-sellers",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-best-sellers",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/collections/flares",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-flare",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/collections/love-letters-to-ondine",
+        "destination": "https://rollasjeans.com/nz/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/collections/new-york-city",
+        "destination": "https://rollasjeans.com/nz/collections/womens-new-york-city",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/collections/sale",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-sale",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/collections/straight-jeans",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-straight",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans/classic-straight",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-straight",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans/dusters-high-rise-non-stretch",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-dusters",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans/eastcoast-flare",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-eastcoast-flare",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans/eastcoast-high-rise-skinny",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-eastcoast",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans/elle-relaxed",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-elle",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans/old-mate",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-old-mate",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans/original-straight",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-original",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans/sailor-high-rise-wide-leg",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-sailor",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/jeans/westcoast-mid-rise-skinny",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-westcoast",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/shop-by/new-arrivals",
+        "destination": "https://rollasjeans.com/nz/collections/womens-clothing-new-arrivals",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/shop-by/rollas-flare",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-flare",
+        "permanent": true
+    },
+    {
+        "source": "/nz/womens/shop-by/rollas-flare",
+        "destination": "https://rollasjeans.com/nz/collections/womens-jeans-flare",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-check-pant",
+        "destination": "https://rollasjeans.com/products/old-mate-check-pant",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-jean-nancy-white",
+        "destination": "https://rollasjeans.com/products/old-mate-jean-nancy-white",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-jean-vintage-white",
+        "destination": "https://rollasjeans.com/au/products/old-mate-jean-nancy-white",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-logo-tee-fast-time-stripe",
+        "destination": "https://rollasjeans.com/products/old-mate-logo-tee-fast-time-stripe",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-overall-stella-blues",
+        "destination": "https://rollasjeans.com/products/old-mate-overall-stella-blues",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-overall-vintage-white",
+        "destination": "https://rollasjeans.com/products/old-mate-overall-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-pant-bay-blue-stripe",
+        "destination": "https://rollasjeans.com/au/products/old-mate-pant",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-pant-ink-stripe",
+        "destination": "https://rollasjeans.com/au/products/old-mate-pant",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-stripe-logo-tee",
+        "destination": "https://rollasjeans.com/au/products/old-mate-stripe-logo-tee-multi-stripe",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-tee-sulphur-black",
+        "destination": "https://rollasjeans.com/products/old-mate-tee-sulphur-black",
+        "permanent": true
+    },
+    {
+        "source": "/old-mate-washed-logo-tee-charcoal-red",
+        "destination": "https://rollasjeans.com/au/products/old-mate-washed-logo-tee-charcoal",
+        "permanent": true
+    },
+    {
+        "source": "/old-school-rolla-s-jeans-tee",
+        "destination": "https://rollasjeans.com/au/products/old-school-rolla-s-jeans-tee-moss",
+        "permanent": true
+    },
+    {
+        "source": "/original-short-big-sur",
+        "destination": "https://rollasjeans.com/products/original-short-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/original-short-city-bleach",
+        "destination": "https://rollasjeans.com/products/original-short-city-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/original-short-comfort-shadow",
+        "destination": "https://rollasjeans.com/products/original-short-comfort-shadow",
+        "permanent": true
+    },
+    {
+        "source": "/original-short-vintage-white",
+        "destination": "https://rollasjeans.com/products/original-short-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/original-straight-cindy-blue",
+        "destination": "https://rollasjeans.com/products/original-straight-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/original-straight-comfort-sky",
+        "destination": "https://rollasjeans.com/products/original-straight-comfort-sky",
+        "permanent": true
+    },
+    {
+        "source": "/original-straight-sunday-blue",
+        "destination": "https://rollasjeans.com/products/original-straight-sunday-blue",
+        "permanent": true
+    },
+    {
+        "source": "/party-with-sofia-richie",
+        "destination": "https://rollasjeans.com/pages/sofia-richie",
+        "permanent": true
+    },
+    {
+        "source": "/patch-denim-sailor-jumpsuit-beach-blue",
+        "destination": "https://rollasjeans.com/au/products/patch-denim-sailor-jumpsuit",
+        "permanent": true
+    },
+    {
+        "source": "/patch-denim-shirt",
+        "destination": "https://rollasjeans.com/products/patch-denim-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/polar-fleece-zip-neck",
+        "destination": "https://rollasjeans.com/products/polar-fleece-zip-neck",
+        "permanent": true
+    },
+    {
+        "source": "/recycled-cotton-tee",
+        "destination": "https://rollasjeans.com/au/products/recycled-cotton-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-cali-bleach",
+        "destination": "https://rollasjeans.com/products/relaxo-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-chop-black-fade",
+        "destination": "https://rollasjeans.com/products/relaxo-chop-black-fade",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-chop-cali-bleach",
+        "destination": "https://rollasjeans.com/products/relaxo-chop-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-chop-eco-best-blue",
+        "destination": "https://rollasjeans.com/products/relaxo-chop-eco-best-blue",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-chop-original-stone",
+        "destination": "https://rollasjeans.com/products/relaxo-chop-original-stone",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-chop-trusty-black",
+        "destination": "https://rollasjeans.com/products/relaxo-chop-trusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-cord-pant-sandman",
+        "destination": "https://rollasjeans.com/products/relaxo-cord-pant-sandman",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-cropped-pant",
+        "destination": "https://rollasjeans.com/au/products/relaxo-cropped-pant-black",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-cropped-pant-sandman",
+        "destination": "https://rollasjeans.com/products/relaxo-cropped-pant-sandman",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-eco-best-blue",
+        "destination": "https://rollasjeans.com/products/relaxo-eco-best-blue",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-original-stone",
+        "destination": "https://rollasjeans.com/products/relaxo-original-stone",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-short-great-white",
+        "destination": "https://rollasjeans.com/products/relaxo-short-great-white",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-short-trusty-blue",
+        "destination": "https://rollasjeans.com/products/relaxo-short-trusty-blue",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-trusty-black",
+        "destination": "https://rollasjeans.com/products/relaxo-trusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/relaxo-young-black",
+        "destination": "https://rollasjeans.com/products/relaxo-young-black",
+        "permanent": true
+    },
+    {
+        "source": "/returns",
+        "destination": "https://rollasjeans.com/pages/returns",
+        "permanent": true
+    },
+    {
+        "source": "/rochelle-bustier",
+        "destination": "https://rollasjeans.com/products/rochelle-bustier",
+        "permanent": true
+    },
+    {
+        "source": "/rollas-desert-tee",
+        "destination": "https://rollasjeans.com/au/products/rolla-s-desert-tee-yellow",
+        "permanent": true
+    },
+    {
+        "source": "/rollas-fosters-biiter-hat-trade-blue",
+        "destination": "https://rollasjeans.com/au/products/rollas-fosters-bitter-hat-trade-blue",
+        "permanent": true
+    },
+    {
+        "source": "/rollas-reds-big-logo-tee",
+        "destination": "https://rollasjeans.com/au/products/rolla-s-reds-big-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/rollas-reds-big-logo-tee-black-stone",
+        "destination": "https://rollasjeans.com/au/products/rolla-s-reds-big-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/rollas-retro-logo-tee",
+        "destination": "https://rollasjeans.com/au/products/rollas-retro-logo-tee-off-white",
+        "permanent": true
+    },
+    {
+        "source": "/rollies-bold-blue",
+        "destination": "https://rollasjeans.com/products/rollies-bold-blue",
+        "permanent": true
+    },
+    {
+        "source": "/rollies-bondi-blue",
+        "destination": "https://rollasjeans.com/products/rollies-bondi-blue",
+        "permanent": true
+    },
+    {
+        "source": "/rollies-hard-on-black",
+        "destination": "https://rollasjeans.com/products/rollies-hard-on-black",
+        "permanent": true
+    },
+    {
+        "source": "/roxanne-blossom-top",
+        "destination": "https://rollasjeans.com/products/roxanne-blossom-top",
+        "permanent": true
+    },
+    {
+        "source": "/roxanne-daisies-top",
+        "destination": "https://rollasjeans.com/products/roxanne-daisies-top",
+        "permanent": true
+    },
+    {
+        "source": "/roxanne-dress",
+        "destination": "https://rollasjeans.com/products/roxanne-dress",
+        "permanent": true
+    },
+    {
+        "source": "/roxanne-linen-dress-white",
+        "destination": "https://rollasjeans.com/au/products/roxanne-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/roxanne-linen-top-white",
+        "destination": "https://rollasjeans.com/au/products/roxanne-linen-top",
+        "permanent": true
+    },
+    {
+        "source": "/ruby-daisies-dress-olive",
+        "destination": "https://rollasjeans.com/products/ruby-daisies-dress-olive",
+        "permanent": true
+    },
+    {
+        "source": "/ruffle-tank-mini-spot-gold",
+        "destination": "https://rollasjeans.com/products/ruffle-tank-mini-spot-gold",
+        "permanent": true
+    },
+    {
+        "source": "/sailor-cardigan-black",
+        "destination": "https://rollasjeans.com/au/products/sailor-cardigan",
+        "permanent": true
+    },
+    {
+        "source": "/sailor-jean-ashley-blue",
+        "destination": "https://rollasjeans.com/products/sailor-jean-ashley-blue",
+        "permanent": true
+    },
+    {
+        "source": "/sailor-jean-kim-blue",
+        "destination": "https://rollasjeans.com/products/sailor-jean-kim-blue",
+        "permanent": true
+    },
+    {
+        "source": "/sailor-jean-long-comfort-jet-black",
+        "destination": "https://rollasjeans.com/products/sailor-jean-long-comfort-jet-black",
+        "permanent": true
+    },
+    {
+        "source": "/sailor-knit-tank",
+        "destination": "https://rollasjeans.com/au/products/sailor-knit-tank-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/sailor-linen-playsuit",
+        "destination": "https://rollasjeans.com/products/sailor-linen-playsuit",
+        "permanent": true
+    },
+    {
+        "source": "/sailor-stripe-jumpsuit-blu-white",
+        "destination": "https://rollasjeans.com/products/sailor-stripe-jumpsuit-blu-white",
+        "permanent": true
+    },
+    {
+        "source": "/sailor-sweater-olive",
+        "destination": "https://rollasjeans.com/products/sailor-sweater-olive",
+        "permanent": true
+    },
+    {
+        "source": "/sailor-sweater-stone-heather",
+        "destination": "https://rollasjeans.com/au/products/sailor-sweater-heather",
+        "permanent": true
+    },
+    {
+        "source": "/shipping",
+        "destination": "https://rollasjeans.com/pages/shipping",
+        "permanent": true
+    },
+    {
+        "source": "/slouch-80-s-stripe-shirt",
+        "destination": "https://rollasjeans.com/products/slouch-80-s-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/slouch-coast-floral-shirt",
+        "destination": "https://rollasjeans.com/products/slouch-coast-floral-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/slouch-jacket-vintage-white",
+        "destination": "https://rollasjeans.com/products/slouch-jacket-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/slouch-sailor-stripe-shirt",
+        "destination": "https://rollasjeans.com/products/slouch-sailor-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/slouch-stripe-shirt-white-charcoal",
+        "destination": "https://rollasjeans.com/products/slouch-stripe-shirt-white-charcoal",
+        "permanent": true
+    },
+    {
+        "source": "/sofia-richie/",
+        "destination": "https://rollasjeans.com/pages/sofia-richie",
+        "permanent": true
+    },
+    {
+        "source": "/sofia-richie",
+        "destination": "https://rollasjeans.com/pages/sofia-richie",
+        "permanent": true
+    },
+    {
+        "source": "/stephanie-coast-floral-blouse",
+        "destination": "https://rollasjeans.com/products/stephanie-coast-floral-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-4-way-bleach",
+        "destination": "https://rollasjeans.com/products/stinger-4-way-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-4-way-tint",
+        "destination": "https://rollasjeans.com/products/stinger-4-way-tint",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-beach-blue",
+        "destination": "https://rollasjeans.com/products/stinger-beach-blue",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-black-gold",
+        "destination": "https://rollasjeans.com/products/stinger-black-gold",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-black-rip",
+        "destination": "https://rollasjeans.com/products/stinger-black-rip",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-fast-times-bleach",
+        "destination": "https://rollasjeans.com/products/stinger-fast-times-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-fast-times-od",
+        "destination": "https://rollasjeans.com/products/stinger-fast-times-od",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-ford-blue",
+        "destination": "https://rollasjeans.com/products/stinger-ford-blue",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-jean-bleach-rip",
+        "destination": "https://rollasjeans.com/au/products/stinger-bleach-rip",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-short-beach-blue",
+        "destination": "https://rollasjeans.com/products/stinger-short-beach-blue",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-short-blowout-black",
+        "destination": "https://rollasjeans.com/products/stinger-short-blowout-black",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-short-blue-sun-destroy",
+        "destination": "https://rollasjeans.com/products/stinger-short-blue-sun-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-short-bondi-blue-destroy",
+        "destination": "https://rollasjeans.com/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-true-blue",
+        "destination": "https://rollasjeans.com/products/stinger-true-blue",
+        "permanent": true
+    },
+    {
+        "source": "/stinger-white-destroy",
+        "destination": "https://rollasjeans.com/products/stinger-white-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/stores",
+        "destination": "https://rollasjeans.com/pages/stores",
+        "permanent": true
+    },
+    {
+        "source": "/straight-to-new-york-city",
+        "destination": "https://rollasjeans.com/pages/straight-to-new-york-city",
+        "permanent": true
+    },
+    {
+        "source": "/super-sailor-jumpsuit",
+        "destination": "https://rollasjeans.com/products/super-sailor-jumpsuit",
+        "permanent": true
+    },
+    {
+        "source": "/super-sailor-pant-black",
+        "destination": "https://rollasjeans.com/products/super-sailor-pant-black",
+        "permanent": true
+    },
+    {
+        "source": "/super-sailor-ramie-pant",
+        "destination": "https://rollasjeans.com/products/super-sailor-ramie-pant",
+        "permanent": true
+    },
+    {
+        "source": "/tapestry-shirt-blouse",
+        "destination": "https://rollasjeans.com/products/tapestry-shirt-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/terms-conditions",
+        "destination": "https://rollasjeans.com/pages/terms-conditions",
+        "permanent": true
+    },
+    {
+        "source": "/tie-bridget-dress",
+        "destination": "https://rollasjeans.com/au/products/tie-bridget-dress-black",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slim-black-raven-destroy",
+        "destination": "https://rollasjeans.com/products/tim-slim-black-raven-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slim-ocean-blue",
+        "destination": "https://rollasjeans.com/products/tim-slim-ocean-blue",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slim-ocean-blue-destroy",
+        "destination": "https://rollasjeans.com/products/tim-slim-ocean-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slim-short-rolled",
+        "destination": "https://rollasjeans.com/products/tim-slim-short-rolled",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slim-short-rolled-devil-black-destroy",
+        "destination": "https://rollasjeans.com/products/tim-slim-short-rolled-devil-black-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-black-raven",
+        "destination": "https://rollasjeans.com/au/products/tim-slim-black-raven",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-bon-black",
+        "destination": "https://rollasjeans.com/products/tim-slims-bon-black",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-chop-great-white",
+        "destination": "https://rollasjeans.com/products/tim-slims-chop-great-white",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-fast-times-blue",
+        "destination": "https://rollasjeans.com/products/tim-slims-fast-times-blue",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-fast-times-worn",
+        "destination": "https://rollasjeans.com/products/tim-slims-fast-times-worn",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-fast-times-worn-destroy",
+        "destination": "https://rollasjeans.com/products/tim-slims-fast-times-worn-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-short-cali-blue",
+        "destination": "https://rollasjeans.com/au/products/tim-slim-short-cali-blue",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-short-hooch-green",
+        "destination": "https://rollasjeans.com/au/products/tim-slim-short-hoch-green",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-thunderstruck",
+        "destination": "https://rollasjeans.com/products/tim-slims-thunderstruck",
+        "permanent": true
+    },
+    {
+        "source": "/tim-slims-thunderstruck-worn",
+        "destination": "https://rollasjeans.com/products/tim-slims-thunderstruck-worn",
+        "permanent": true
+    },
+    {
+        "source": "/tomboy-tee-white",
+        "destination": "https://rollasjeans.com/products/tomboy-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/trade-overalls-black",
+        "destination": "https://rollasjeans.com/products/trade-overalls-black",
+        "permanent": true
+    },
+    {
+        "source": "/tradie-check-shirt-forest-check",
+        "destination": "https://rollasjeans.com/products/tradie-check-shirt-forest-check",
+        "permanent": true
+    },
+    {
+        "source": "/union-bedford-cord-shirt",
+        "destination": "https://rollasjeans.com/au/products/union-bedford-cord-shirt-trade-green",
+        "permanent": true
+    },
+    {
+        "source": "/us/afterpay",
+        "destination": "https://rollasjeans.com/us/pages/afterpay",
+        "permanent": true
+    },
+    {
+        "source": "/us/alice-denim-overall",
+        "destination": "https://rollasjeans.com/us/products/alice-denim-overall",
+        "permanent": true
+    },
+    {
+        "source": "/us/april-daisies-dress-ink",
+        "destination": "https://rollasjeans.com/us/products/april-daisies-dress-ink",
+        "permanent": true
+    },
+    {
+        "source": "/us/april-dress-mini-spot-gold",
+        "destination": "https://rollasjeans.com/us/products/april-dress-mini-spot-gold",
+        "permanent": true
+    },
+    {
+        "source": "/us/april-stripe-dress-blu-white",
+        "destination": "https://rollasjeans.com/us/products/april-stripe-dress-blue-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/aussie-summer-launch",
+        "destination": "https://rollasjeans.com/us/",
+        "permanent": true
+    },
+    {
+        "source": "/us/beach-boy-dot-shirt-dreamtime-white",
+        "destination": "https://rollasjeans.com/us/products/beach-boy-dot-shirt-dreamtime-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/beach-boy-geo-diamond-shirt-black-berry",
+        "destination": "https://rollasjeans.com/us/products/beach-boy-shirt-geo-diamond",
+        "permanent": true
+    },
+    {
+        "source": "/us/beach-boy-shirt-sun-flare",
+        "destination": "https://rollasjeans.com/us/products/beach-boy-shirt-sun-flare-bone",
+        "permanent": true
+    },
+    {
+        "source": "/us/big-stripe-tee",
+        "destination": "https://rollasjeans.com/us/products/big-stripe-tee-freshmint",
+        "permanent": true
+    },
+    {
+        "source": "/us/big-stripe-tee-gold",
+        "destination": "https://rollasjeans.com/us/products/big-stripe-tee-gold",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-drinks-on-me-shirt-black",
+        "destination": "https://rollasjeans.com/us/products/bon-drinks-on-me-shirt-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-multi-stripe-shirt",
+        "destination": "https://rollasjeans.com/us/products/bon-multi-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-party-animal-shirt-black-white",
+        "destination": "https://rollasjeans.com/us/products/bon-shirt-party-animal",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-shirt-fancy-sun",
+        "destination": "https://rollasjeans.com/us/products/bon-shirt-fancy-sun",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-shirt-fast-time-stripe-orange-stripes",
+        "destination": "https://rollasjeans.com/us/products/bon-shirt-fast-time-stripe-orange-stripes",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-shirt-sun-leaf",
+        "destination": "https://rollasjeans.com/us/products/bon-shirt-sun-leaf",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-shirt-westley-circles",
+        "destination": "https://rollasjeans.com/us/products/bon-shirt-westley-circles",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-shirt-westley-dots",
+        "destination": "https://rollasjeans.com/us/products/bon-shirt-westley-dots",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-shirt-wild-rose",
+        "destination": "https://rollasjeans.com/us/products/bon-shirt-wild-rose",
+        "permanent": true
+    },
+    {
+        "source": "/us/bon-surfers-paradise-shirt",
+        "destination": "https://rollasjeans.com/us/products/bon-surfers-paradise-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/brother-pocket-tee",
+        "destination": "https://rollasjeans.com/us/products/brother-pocket-tee-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/bushfire-appeal",
+        "destination": "https://rollasjeans.com/us/pages/bushfire-appeal",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/category/view/s/mens/id/64/",
+        "destination": "https://rollasjeans.com/us/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/category/view/s/t-shirts/id/102/",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-tees",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/category/view/s/womens/id/85/",
+        "destination": "https://rollasjeans.com/us/collections/womens",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/_ignore_category/1/id/26488/s/original-straight-ash-black/",
+        "destination": "https://rollasjeans.com/us/products/original-straight-ash-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/_ignore_category/1/id/26945/s/beach-boy-shirt-sun-warrior/",
+        "destination": "https://rollasjeans.com/us/products/beach-boy-shirt-sun-warrior-black-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/_ignore_category/1/id/417/",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/_ignore_category/1/id/417/s/stinger-short-bondi-blue-destroy/",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/id/26488/s/original-straight-ash-black/",
+        "destination": "https://rollasjeans.com/us/products/original-straight-ash-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/id/417/",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/id/417/category/64/",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/id/417/category/76/",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/id/417/category/84/",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/catalog/product/view/id/417/s/stinger-short-bondi-blue-destroy/",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/check-slouch-blazer-navy-cream",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/us/checkout/cart/",
+        "destination": "https://rollasjeans.com/us/",
+        "permanent": true
+    },
+    {
+        "source": "/us/checkout/cart/index/",
+        "destination": "https://rollasjeans.com/us/",
+        "permanent": true
+    },
+    {
+        "source": "/us/circle-logo-tee-old-gold",
+        "destination": "https://rollasjeans.com/us/products/circle-logo-tee-old-gold",
+        "permanent": true
+    },
+    {
+        "source": "/us/claire-blossom-dress",
+        "destination": "https://rollasjeans.com/us/products/claire-blossom-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/claire-linen-dress",
+        "destination": "https://rollasjeans.com/us/products/claire-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/classic-rib-tank-white-blue",
+        "destination": "https://rollasjeans.com/us/products/classic-rib-tank-white-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/classic-rib-tee",
+        "destination": "https://rollasjeans.com/us/products/classic-rib-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/classic-rib-tee-grey-marle-or-olive",
+        "destination": "https://rollasjeans.com/us/products/classic-rib-tee-grey-marle",
+        "permanent": true
+    },
+    {
+        "source": "/us/classic-straight-90s-blue",
+        "destination": "https://rollasjeans.com/us/products/classic-straight-90-s-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/claudia-skirt-big-sur",
+        "destination": "https://rollasjeans.com/us/products/claudia-skirt-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/us/claudia-skirt-city-bleach",
+        "destination": "https://rollasjeans.com/us/products/claudia-skirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/contact",
+        "destination": "https://rollasjeans.com/us/pages/contact-us",
+        "permanent": true
+    },
+    {
+        "source": "/us/cord-slouch-blazer",
+        "destination": "https://rollasjeans.com/us/products/cord-slouch-blazer",
+        "permanent": true
+    },
+    {
+        "source": "/us/csr",
+        "destination": "https://rollasjeans.com/pages/corporate-social-responsibility",
+        "permanent": true
+    },
+    {
+        "source": "/us/customer/account/",
+        "destination": "https://rollasjeans.com/us/me",
+        "permanent": true
+    },
+    {
+        "source": "/us/customer/account/create/",
+        "destination": "https://rollasjeans.com/us/sign-up",
+        "permanent": true
+    },
+    {
+        "source": "/us/customer/account/forgotpassword/",
+        "destination": "https://rollasjeans.com/us/me",
+        "permanent": true
+    },
+    {
+        "source": "/us/daria-denim-shirt",
+        "destination": "https://rollasjeans.com/us/products/daria-denim-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/daria-linen-shirt-white",
+        "destination": "https://rollasjeans.com/us/products/daria-linen-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/daria-shirt",
+        "destination": "https://rollasjeans.com/us/products/daria-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/daria-stripe-shirt",
+        "destination": "https://rollasjeans.com/us/products/daria-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/decor-logo-tee-navy",
+        "destination": "https://rollasjeans.com/us/products/decor-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/us/delilah-daisies-blouse-olive",
+        "destination": "https://rollasjeans.com/us/products/delilah-daisies-blouse-olive",
+        "permanent": true
+    },
+    {
+        "source": "/us/denim-jacket-brut-black",
+        "destination": "https://rollasjeans.com/us/products/denim-jacket-brut-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/denim-jacket-cali-bleach",
+        "destination": "https://rollasjeans.com/us/products/denim-jacket-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/denim-jacket-eco-heavy-stone",
+        "destination": "https://rollasjeans.com/us/products/denim-jacket-eco-heavy-stone",
+        "permanent": true
+    },
+    {
+        "source": "/us/denim-sherpa-polar-blue",
+        "destination": "https://rollasjeans.com/us/products/denim-sherpa-polar-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/denim-sherpa-truckers-dust-blue",
+        "destination": "https://rollasjeans.com/us/products/denim-sherpa-truckers-dust-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/desert-cap-white-cord",
+        "destination": "https://rollasjeans.com/us/products/white-desert-cord-cap-white-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/desert-cap-yellow-cord",
+        "destination": "https://rollasjeans.com/us/products/yellow-desert-cord-cap-yellow-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/dianne-rose-garden-camisole-blue",
+        "destination": "https://rollasjeans.com/us/products/dianne-rose-garden-camisole",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-big-sur",
+        "destination": "https://rollasjeans.com/us/products/dusters-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-comfort-jet-black",
+        "destination": "https://rollasjeans.com/us/products/dusters-comfort-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-old-stone",
+        "destination": "https://rollasjeans.com/us/products/dusters-old-stone",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-rolla-s-black-cord",
+        "destination": "https://rollasjeans.com/us/products/dusters-rolla-s-black-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-short-ashley-blue",
+        "destination": "https://rollasjeans.com/us/products/dusters-short-ashley-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-short-black-dust",
+        "destination": "https://rollasjeans.com/us/products/dusters-short-black-dust",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-short-button-black",
+        "destination": "https://rollasjeans.com/us/products/dusters-short-button-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-short-cindy-blue",
+        "destination": "https://rollasjeans.com/us/products/dusters-short-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-short-layla-bleach",
+        "destination": "https://rollasjeans.com/us/products/dusters-short-layla-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-short-sunday-blue",
+        "destination": "https://rollasjeans.com/us/products/dusters-short-sunday-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/dusters-short-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/dusters-short-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-ankle-franki-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-ankle-franki-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-ankle-galaxy-black",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-ankle-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-ankle-galaxy-rip",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-ankle-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-ankle-ocean-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-ankle-ocean-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-ankle-ocean-worn",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-ankle-ocean-worn",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-ankle-stacey-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-ankle-stacey-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-crop-flare-cindy-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-crop-flare-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-ava-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-ava-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-bordeaux-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-bordeaux-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-brown-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-brown-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-french-blue-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-french-blue-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-galaxy-black",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-heather-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-heather-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-karen-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-karen-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-lilac-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-lilac-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-midnight-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-midnight-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-overall",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-overall-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-overall-eco-judy-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-overall-eco-judy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-overall-galaxy-black",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-overall-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-overall-sadie-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-overall-sadie-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-seagrass-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-seagrass-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-tan-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-tan-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-tash-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-tash-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/ella-blouse-golden-flowers",
+        "destination": "https://rollasjeans.com/us/products/l-s-ella-rambling-rose-blouse-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/ella-daisies-blouse",
+        "destination": "https://rollasjeans.com/us/products/ella-daisies-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/us/ella-rose-garden-blouse-blue",
+        "destination": "https://rollasjeans.com/us/products/ella-rose-garden-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/us/elle-jean-eva-blue",
+        "destination": "https://rollasjeans.com/us/products/elle-jean-eva-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/elle-jean-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/elle-jean-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/erin-coast-floral-dress",
+        "destination": "https://rollasjeans.com/us/products/erin-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/erin-rambling-rose-dress",
+        "destination": "https://rollasjeans.com/us/products/erin-rambling-rose-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/eve-linen-dress",
+        "destination": "https://rollasjeans.com/us/products/eve-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/eve-linen-dress-olive",
+        "destination": "https://rollasjeans.com/us/products/eve-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/eve-tapestry-dress-multi",
+        "destination": "https://rollasjeans.com/us/products/eve-tapestry-dress-multi",
+        "permanent": true
+    },
+    {
+        "source": "/us/eve-top-mini-spot",
+        "destination": "https://rollasjeans.com/us/products/eve-top-mini-spot-brown",
+        "permanent": true
+    },
+    {
+        "source": "/us/fader-stripe-tee-ink",
+        "destination": "https://rollasjeans.com/us/products/fader-stripe-tee",
+        "permanent": true
+    },
+    {
+        "source": "/us/fits-guide",
+        "destination": "https://rollasjeans.com/us/pages/womens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/us/fits-guide-detail-men",
+        "destination": "https://rollasjeans.com/pages/mens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/us/fits-guide-men",
+        "destination": "https://rollasjeans.com/us/pages/mens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-flock-tee-trade-blue",
+        "destination": "https://rollasjeans.com/us/products/fosters-flock-tee-trade-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-lager-bucket-hat-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/fosters-lager-bucket-hat-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-lager-bucket-hat-washed-blue",
+        "destination": "https://rollasjeans.com/us/products/fosters-lager-bucket-hat-washed-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-lager-cord-cap-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/fosters-lager-cord-cap-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-lager-washed-tank-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/fosters-lager-washed-tank-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/gabby-slouch-blazer",
+        "destination": "https://rollasjeans.com/us/products/gabby-slouch-blazer",
+        "permanent": true
+    },
+    {
+        "source": "/us/gift-card",
+        "destination": "https://rollasjeans.com/us/",
+        "permanent": true
+    },
+    {
+        "source": "/us/halter-coast-floral-dress",
+        "destination": "https://rollasjeans.com/us/products/halter-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/halter-daisies-dress",
+        "destination": "https://rollasjeans.com/us/products/halter-daisies-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/halter-dress-mini-spot",
+        "destination": "https://rollasjeans.com/us/products/halter-dress-mini-spot-brown",
+        "permanent": true
+    },
+    {
+        "source": "/us/heidi-pant-grandpa-check",
+        "destination": "https://rollasjeans.com/us/products/heidi-pant-grandpa-check",
+        "permanent": true
+    },
+    {
+        "source": "/us/high-mini-comfort-shadow",
+        "destination": "https://rollasjeans.com/us/products/high-mini-comfort-shadow",
+        "permanent": true
+    },
+    {
+        "source": "/us/high-mini-old-blue",
+        "destination": "https://rollasjeans.com/us/products/high-mini",
+        "permanent": true
+    },
+    {
+        "source": "/us/high-mini-pam-blue",
+        "destination": "https://rollasjeans.com/us/products/high-mini",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-check-pant-navy-cream",
+        "destination": "https://rollasjeans.com/us/products/horizon-check-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-cord-pant",
+        "destination": "https://rollasjeans.com/us/products/horizon-cord-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-linen-pant-hot-pink",
+        "destination": "https://rollasjeans.com/us/products/horizon-linen-pant-hot-pink",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-linen-pant-natural",
+        "destination": "https://rollasjeans.com/us/products/horizon-linen-pant-natural",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-linen-short-stone",
+        "destination": "https://rollasjeans.com/us/products/horizon-linen-short-stone",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-playsuit",
+        "destination": "https://rollasjeans.com/us/products/horizon-playsuit",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-playsuit-black",
+        "destination": "https://rollasjeans.com/us/products/horizon-playsuit-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-short",
+        "destination": "https://rollasjeans.com/us/products/horizon-short-belle-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/instagram",
+        "destination": "https://rollasjeans.com/instagram/rollasjeans",
+        "permanent": true
+    },
+    {
+        "source": "/us/instagram/",
+        "destination": "https://rollasjeans.com/instagram/rollasjeans",
+        "permanent": true
+    },
+    {
+        "source": "/us/jane-stripe-slouch-shirt-ocean",
+        "destination": "https://rollasjeans.com/us/products/jane-stripe-slouch-shirt-ocean",
+        "permanent": true
+    },
+    {
+        "source": "/us/jasmine-linen-dress-cream",
+        "destination": "https://rollasjeans.com/us/products/jasmine-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/jasmine-rose-garden-dress-blue",
+        "destination": "https://rollasjeans.com/us/products/jasmine-rose-garden-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/l-s-ella-rambling-rose-blouse-french-blue",
+        "destination": "https://rollasjeans.com/us/products/l-s-ella-rambling-rose-blouse-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/l-s-roxy-dress-black-cord",
+        "destination": "https://rollasjeans.com/us/products/l-s-roxy-dress-black-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/laura-sweater-rolla-s-blue",
+        "destination": "https://rollasjeans.com/us/products/laura-sweater-rolla-s-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/laura-sweater-vanilla",
+        "destination": "https://rollasjeans.com/us/products/laura-sweater-vanilla",
+        "permanent": true
+    },
+    {
+        "source": "/us/linen-milla-tank-dress",
+        "destination": "https://rollasjeans.com/us/products/linen-milla-tank-dress-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/love-letters-to-ondine",
+        "destination": "https://rollasjeans.com/us/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/us/love-letters-to-ondine/",
+        "destination": "https://rollasjeans.com/us/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/us/melb-bitter-flock-tee-burgundy",
+        "destination": "https://rollasjeans.com/us/products/melb-bitter-flock-tee-burgundy",
+        "permanent": true
+    },
+    {
+        "source": "/us/melbourne-bitter-washed-tank-vintage-red",
+        "destination": "https://rollasjeans.com/us/products/melbourne-bitter-washed-tank-vintage-red",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-cord-shirt",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-cord-shirt-moss",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-hemp-denim-shirt",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-shirts",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-herringbone-shirt",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-herringbone-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-l-s-stripe-shirt",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-l-s-stripe-shirt-trade-green",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-linen-shirt-black",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-linen-shirt-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-shirt-paisley-bedford",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-shirt-paisley-bedford",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-ss-herringbone-shirt",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-herringbone-shirt-deep-water",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens",
+        "destination": "https://rollasjeans.com/us/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/accessories",
+        "destination": "https://rollasjeans.com/us/collections/mens-accessories",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/fleece",
+        "destination": "https://rollasjeans.com/us/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/jackets",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/overalls",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-overalls",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/pants",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-pants",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/shirts",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-shirts",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/shorts",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-shorts",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/t-shirts",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-tees",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/collections/best-sellers",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-best-sellers",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/collections/pub-rock",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-pub-rock",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/collections/sale",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-sale",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans/relaxo",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans-relaxo",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans/rollies",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans-rollies",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans/stinger",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans-stinger",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans/tim-slims",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans-tim-slims",
+        "permanent": true
+    },
+    {
+        "source": "/us/midsummer-mini-tulips-dress",
+        "destination": "https://rollasjeans.com/us/products/midsummer-mini-tulips-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/milla-coast-floral-dress",
+        "destination": "https://rollasjeans.com/us/products/milla-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/milla-daisies-dress-olive",
+        "destination": "https://rollasjeans.com/us/products/milla-daisies-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/miller-rib-tank",
+        "destination": "https://rollasjeans.com/us/products/miller-rib-tank",
+        "permanent": true
+    },
+    {
+        "source": "/us/miller-rib-tank-grey-marle",
+        "destination": "https://rollasjeans.com/us/products/miller-rib-tank-grey-marle",
+        "permanent": true
+    },
+    {
+        "source": "/us/miller-tee",
+        "destination": "https://rollasjeans.com/us/products/miller-tee-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/miller-tee-white",
+        "destination": "https://rollasjeans.com/us/products/miller-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/monarch-blouse",
+        "destination": "https://rollasjeans.com/us/products/monarch-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/us/morrison-cord-jacket",
+        "destination": "https://rollasjeans.com/us/products/morrison-cord-jacket-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/morrison-sherpa",
+        "destination": "https://rollasjeans.com/us/products/morrison-sherpa-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/morrison-sherpa-jacket-honey",
+        "destination": "https://rollasjeans.com/us/products/morrison-sherpa-jacket-honey",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-check-pant",
+        "destination": "https://rollasjeans.com/us/products/old-mate-check-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-jean-nancy-white",
+        "destination": "https://rollasjeans.com/us/products/old-mate-jean-nancy-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-jean-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/old-mate-jean-nancy-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-logo-tee-fast-time-stripe",
+        "destination": "https://rollasjeans.com/us/products/old-mate-logo-tee-fast-time-stripe",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-overall-stella-blues",
+        "destination": "https://rollasjeans.com/us/products/old-mate-overall-stella-blues",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-overall-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/old-mate-overall-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-pant-bay-blue-stripe",
+        "destination": "https://rollasjeans.com/us/products/old-mate-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-pant-ink-stripe",
+        "destination": "https://rollasjeans.com/us/products/old-mate-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-stripe-logo-tee",
+        "destination": "https://rollasjeans.com/us/products/old-mate-stripe-logo-tee-multi-stripe",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-tee-sulphur-black",
+        "destination": "https://rollasjeans.com/us/products/old-mate-tee-sulphur-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-washed-logo-tee-charcoal-red",
+        "destination": "https://rollasjeans.com/us/products/old-mate-washed-logo-tee-charcoal",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-school-rolla-s-jeans-tee",
+        "destination": "https://rollasjeans.com/us/products/old-school-rolla-s-jeans-tee-moss",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-short-big-sur",
+        "destination": "https://rollasjeans.com/us/products/original-short-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-short-city-bleach",
+        "destination": "https://rollasjeans.com/us/products/original-short-city-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-short-comfort-shadow",
+        "destination": "https://rollasjeans.com/us/products/original-short-comfort-shadow",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-short-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/original-short-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-straight-cindy-blue",
+        "destination": "https://rollasjeans.com/us/products/original-straight-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-straight-comfort-sky",
+        "destination": "https://rollasjeans.com/us/products/original-straight-comfort-sky",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-straight-sunday-blue",
+        "destination": "https://rollasjeans.com/us/products/original-straight-sunday-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/party-with-sofia-richie",
+        "destination": "https://rollasjeans.com/us/pages/sofia-richie",
+        "permanent": true
+    },
+    {
+        "source": "/us/patch-denim-sailor-jumpsuit-beach-blue",
+        "destination": "https://rollasjeans.com/us/products/patch-denim-sailor-jumpsuit",
+        "permanent": true
+    },
+    {
+        "source": "/us/patch-denim-shirt",
+        "destination": "https://rollasjeans.com/us/products/patch-denim-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/polar-fleece-zip-neck",
+        "destination": "https://rollasjeans.com/us/products/polar-fleece-zip-neck",
+        "permanent": true
+    },
+    {
+        "source": "/us/recycled-cotton-tee",
+        "destination": "https://rollasjeans.com/us/products/recycled-cotton-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-cali-bleach",
+        "destination": "https://rollasjeans.com/us/products/relaxo-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-black-fade",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-black-fade",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-cali-bleach",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-eco-best-blue",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-eco-best-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-original-stone",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-original-stone",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-trusty-black",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-trusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-cord-pant-sandman",
+        "destination": "https://rollasjeans.com/us/products/relaxo-cord-pant-sandman",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-cropped-pant",
+        "destination": "https://rollasjeans.com/us/products/relaxo-cropped-pant-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-cropped-pant-sandman",
+        "destination": "https://rollasjeans.com/us/products/relaxo-cropped-pant-sandman",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-eco-best-blue",
+        "destination": "https://rollasjeans.com/us/products/relaxo-eco-best-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-original-stone",
+        "destination": "https://rollasjeans.com/us/products/relaxo-original-stone",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-short-great-white",
+        "destination": "https://rollasjeans.com/us/products/relaxo-short-great-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-short-trusty-blue",
+        "destination": "https://rollasjeans.com/us/products/relaxo-short-trusty-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-trusty-black",
+        "destination": "https://rollasjeans.com/us/products/relaxo-trusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-young-black",
+        "destination": "https://rollasjeans.com/us/products/relaxo-young-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/returns",
+        "destination": "https://rollasjeans.com/us/pages/returns",
+        "permanent": true
+    },
+    {
+        "source": "/us/rochelle-bustier",
+        "destination": "https://rollasjeans.com/us/products/rochelle-bustier",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-desert-tee",
+        "destination": "https://rollasjeans.com/us/products/rolla-s-desert-tee-yellow",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-fosters-biiter-hat-trade-blue",
+        "destination": "https://rollasjeans.com/us/products/rollas-fosters-bitter-hat-trade-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-reds-big-logo-tee",
+        "destination": "https://rollasjeans.com/us/products/rolla-s-reds-big-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-reds-big-logo-tee-black-stone",
+        "destination": "https://rollasjeans.com/us/products/rolla-s-reds-big-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-retro-logo-tee",
+        "destination": "https://rollasjeans.com/us/products/rollas-retro-logo-tee-off-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollies-bold-blue",
+        "destination": "https://rollasjeans.com/us/products/rollies-bold-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollies-bondi-blue",
+        "destination": "https://rollasjeans.com/us/products/rollies-bondi-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollies-hard-on-black",
+        "destination": "https://rollasjeans.com/us/products/rollies-hard-on-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/roxanne-blossom-top",
+        "destination": "https://rollasjeans.com/us/products/roxanne-blossom-top",
+        "permanent": true
+    },
+    {
+        "source": "/us/roxanne-daisies-top",
+        "destination": "https://rollasjeans.com/us/products/roxanne-daisies-top",
+        "permanent": true
+    },
+    {
+        "source": "/us/roxanne-dress",
+        "destination": "https://rollasjeans.com/us/products/roxanne-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/roxanne-linen-dress-white",
+        "destination": "https://rollasjeans.com/us/products/roxanne-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/roxanne-linen-top-white",
+        "destination": "https://rollasjeans.com/us/products/roxanne-linen-top",
+        "permanent": true
+    },
+    {
+        "source": "/us/ruby-daisies-dress-olive",
+        "destination": "https://rollasjeans.com/us/products/ruby-daisies-dress-olive",
+        "permanent": true
+    },
+    {
+        "source": "/us/ruffle-tank-mini-spot-gold",
+        "destination": "https://rollasjeans.com/us/products/ruffle-tank-mini-spot-gold",
+        "permanent": true
+    },
+    {
+        "source": "/us/sailor-cardigan-black",
+        "destination": "https://rollasjeans.com/us/products/sailor-cardigan",
+        "permanent": true
+    },
+    {
+        "source": "/us/sailor-jean-ashley-blue",
+        "destination": "https://rollasjeans.com/us/products/sailor-jean-ashley-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/sailor-jean-kim-blue",
+        "destination": "https://rollasjeans.com/us/products/sailor-jean-kim-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/sailor-jean-long-comfort-jet-black",
+        "destination": "https://rollasjeans.com/us/products/sailor-jean-long-comfort-jet-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/sailor-knit-tank",
+        "destination": "https://rollasjeans.com/us/products/sailor-knit-tank-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/sailor-linen-playsuit",
+        "destination": "https://rollasjeans.com/us/products/sailor-linen-playsuit",
+        "permanent": true
+    },
+    {
+        "source": "/us/sailor-stripe-jumpsuit-blu-white",
+        "destination": "https://rollasjeans.com/us/products/sailor-stripe-jumpsuit-blu-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/sailor-sweater-olive",
+        "destination": "https://rollasjeans.com/us/products/sailor-sweater-olive",
+        "permanent": true
+    },
+    {
+        "source": "/us/sailor-sweater-stone-heather",
+        "destination": "https://rollasjeans.com/us/products/sailor-sweater-heather",
+        "permanent": true
+    },
+    {
+        "source": "/us/shipping",
+        "destination": "https://rollasjeans.com/us/pages/shipping",
+        "permanent": true
+    },
+    {
+        "source": "/us/slouch-80-s-stripe-shirt",
+        "destination": "https://rollasjeans.com/us/products/slouch-80-s-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/slouch-coast-floral-shirt",
+        "destination": "https://rollasjeans.com/us/products/slouch-coast-floral-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/slouch-jacket-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/slouch-jacket-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/slouch-sailor-stripe-shirt",
+        "destination": "https://rollasjeans.com/us/products/slouch-sailor-stripe-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/slouch-stripe-shirt-white-charcoal",
+        "destination": "https://rollasjeans.com/us/products/slouch-stripe-shirt-white-charcoal",
+        "permanent": true
+    },
+    {
+        "source": "/us/sofia-richie",
+        "destination": "https://rollasjeans.com/us/pages/sofia-richie",
+        "permanent": true
+    },
+    {
+        "source": "/us/sofia-richie/",
+        "destination": "https://rollasjeans.com/us/pages/sofia-richie",
+        "permanent": true
+    },
+    {
+        "source": "/us/stephanie-coast-floral-blouse",
+        "destination": "https://rollasjeans.com/us/products/stephanie-coast-floral-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-4-way-bleach",
+        "destination": "https://rollasjeans.com/us/products/stinger-4-way-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-4-way-tint",
+        "destination": "https://rollasjeans.com/us/products/stinger-4-way-tint",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-beach-blue",
+        "destination": "https://rollasjeans.com/us/products/stinger-beach-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-black-gold",
+        "destination": "https://rollasjeans.com/us/products/stinger-black-gold",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-black-rip",
+        "destination": "https://rollasjeans.com/us/products/stinger-black-rip",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-fast-times-bleach",
+        "destination": "https://rollasjeans.com/us/products/stinger-fast-times-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-fast-times-od",
+        "destination": "https://rollasjeans.com/us/products/stinger-fast-times-od",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-ford-blue",
+        "destination": "https://rollasjeans.com/us/products/stinger-ford-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-jean-bleach-rip",
+        "destination": "https://rollasjeans.com/us/products/stinger-bleach-rip",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-short-beach-blue",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-beach-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-short-blowout-black",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-blowout-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-short-blue-sun-destroy",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-blue-sun-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-short-bondi-blue-destroy",
+        "destination": "https://rollasjeans.com/us/products/stinger-short-bondi-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-true-blue",
+        "destination": "https://rollasjeans.com/us/products/stinger-true-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/stinger-white-destroy",
+        "destination": "https://rollasjeans.com/us/products/stinger-white-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/stores",
+        "destination": "https://rollasjeans.com/us/pages/stores",
+        "permanent": true
+    },
+    {
+        "source": "/us/straight-to-new-york-city",
+        "destination": "https://rollasjeans.com/us/pages/straight-to-new-york-city",
+        "permanent": true
+    },
+    {
+        "source": "/us/straight-to-new-york-city/",
+        "destination": "https://rollasjeans.com/us/pages/straight-to-new-york-city",
+        "permanent": true
+    },
+    {
+        "source": "/us/super-sailor-jumpsuit",
+        "destination": "https://rollasjeans.com/us/products/super-sailor-jumpsuit",
+        "permanent": true
+    },
+    {
+        "source": "/us/super-sailor-pant-black",
+        "destination": "https://rollasjeans.com/us/products/super-sailor-pant-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/super-sailor-ramie-pant",
+        "destination": "https://rollasjeans.com/us/products/super-sailor-ramie-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/tapestry-shirt-blouse",
+        "destination": "https://rollasjeans.com/us/products/tapestry-shirt-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/us/terms-conditions",
+        "destination": "https://rollasjeans.com/us/pages/terms-conditions",
+        "permanent": true
+    },
+    {
+        "source": "/us/tie-bridget-dress",
+        "destination": "https://rollasjeans.com/us/products/tie-bridget-dress-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slim-black-raven-destroy",
+        "destination": "https://rollasjeans.com/us/products/tim-slim-black-raven-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slim-ocean-blue",
+        "destination": "https://rollasjeans.com/us/products/tim-slim-ocean-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slim-ocean-blue-destroy",
+        "destination": "https://rollasjeans.com/us/products/tim-slim-ocean-blue-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slim-short-rolled",
+        "destination": "https://rollasjeans.com/us/products/tim-slim-short-rolled",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slim-short-rolled-devil-black-destroy",
+        "destination": "https://rollasjeans.com/us/products/tim-slim-short-rolled-devil-black-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-black-raven",
+        "destination": "https://rollasjeans.com/us/products/tim-slim-black-raven",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-bon-black",
+        "destination": "https://rollasjeans.com/us/products/tim-slims-bon-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-chop-great-white",
+        "destination": "https://rollasjeans.com/us/products/tim-slims-chop-great-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-fast-times-blue",
+        "destination": "https://rollasjeans.com/us/products/tim-slims-fast-times-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-fast-times-worn",
+        "destination": "https://rollasjeans.com/us/products/tim-slims-fast-times-worn",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-fast-times-worn-destroy",
+        "destination": "https://rollasjeans.com/us/products/tim-slims-fast-times-worn-destroy",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-short-cali-blue",
+        "destination": "https://rollasjeans.com/us/products/tim-slim-short-cali-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-short-hooch-green",
+        "destination": "https://rollasjeans.com/us/products/tim-slim-short-hoch-green",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-thunderstruck",
+        "destination": "https://rollasjeans.com/us/products/tim-slims-thunderstruck",
+        "permanent": true
+    },
+    {
+        "source": "/us/tim-slims-thunderstruck-worn",
+        "destination": "https://rollasjeans.com/us/products/tim-slims-thunderstruck-worn",
+        "permanent": true
+    },
+    {
+        "source": "/us/tomboy-tee-white",
+        "destination": "https://rollasjeans.com/us/products/tomboy-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/trade-overalls-black",
+        "destination": "https://rollasjeans.com/us/products/trade-overalls-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/tradie-check-shirt-forest-check",
+        "destination": "https://rollasjeans.com/us/products/tradie-check-shirt-forest-check",
+        "permanent": true
+    },
+    {
+        "source": "/us/union-bedford-cord-shirt",
+        "destination": "https://rollasjeans.com/us/products/union-bedford-cord-shirt-trade-green",
+        "permanent": true
+    },
+    {
+        "source": "/us/utility-linen-shirt",
+        "destination": "https://rollasjeans.com/us/products/utility-linen-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/valerie-rambling-rose-dress-french-blue",
+        "destination": "https://rollasjeans.com/us/products/valerie-rambling-rose-dress-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/victoria-bitter-washed-tank-vintage-green",
+        "destination": "https://rollasjeans.com/us/products/victoria-bitter-washed-tank-vintage-green",
+        "permanent": true
+    },
+    {
+        "source": "/us/westcoast-ankle-bayside-blue",
+        "destination": "https://rollasjeans.com/us/products/westcoast-ankle-bayside-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/westcoast-ankle-dusty-black",
+        "destination": "https://rollasjeans.com/us/products/westcoast-ankle-dusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/westcoast-ankle-kylie-blue",
+        "destination": "https://rollasjeans.com/us/products/westcoast-ankle-kylie-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/westcoast-ankle-kylie-worn",
+        "destination": "https://rollasjeans.com/us/products/westcoast-ankle-kylie-worn",
+        "permanent": true
+    },
+    {
+        "source": "/us/westcoast-ankle-raven",
+        "destination": "https://rollasjeans.com/us/products/westcoast-ankle-raven",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens",
+        "destination": "https://rollasjeans.com/us/collections/womens",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/apparel",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/apparel/dresses",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-dresses",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/apparel/jackets",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/apparel/knitwear",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-knits",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/apparel/one-piece",
+        "destination": "https://rollasjeans.com/us/collections/womens",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/apparel/pants",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-pants",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/apparel/shorts",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-shorts",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/apparel/skirts",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-skirts",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/apparel/tops",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-tops",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/collections/best-sellers",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-best-sellers",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/collections/flares",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-flare",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/collections/love-letters-to-ondine",
+        "destination": "https://rollasjeans.com/us/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/collections/new-york-city",
+        "destination": "https://rollasjeans.com/us/collections/womens-new-york-city",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/collections/sale",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-sale",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/collections/straight-jeans",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-straight",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans/classic-straight",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-straight",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans/dusters-high-rise-non-stretch",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-dusters",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans/eastcoast-flare",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-eastcoast-flare",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans/eastcoast-high-rise-skinny",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-eastcoast",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans/elle-relaxed",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-elle",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans/old-mate",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-old-mate",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans/original-straight",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-original",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans/sailor-high-rise-wide-leg",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-sailor",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/jeans/westcoast-mid-rise-skinny",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-westcoast",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/shop-by/new-arrivals",
+        "destination": "https://rollasjeans.com/us/collections/womens-clothing-new-arrivals",
+        "permanent": true
+    },
+    {
+        "source": "/us/womens/shop-by/rollas-flare",
+        "destination": "https://rollasjeans.com/us/collections/womens-jeans-flare",
+        "permanent": true
+    },
+    {
+        "source": "/utility-linen-shirt",
+        "destination": "https://rollasjeans.com/au/products/utility-linen-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/valerie-rambling-rose-dress-french-blue",
+        "destination": "https://rollasjeans.com/au/products/valerie-rambling-rose-dress-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/victoria-bitter-washed-tank-vintage-green",
+        "destination": "https://rollasjeans.com/au/products/victoria-bitter-washed-tank-vintage-green",
+        "permanent": true
+    },
+    {
+        "source": "/westcoast-ankle-bayside-blue",
+        "destination": "https://rollasjeans.com/au/products/westcoast-ankle-bayside-blue",
+        "permanent": true
+    },
+    {
+        "source": "/westcoast-ankle-dusty-black",
+        "destination": "https://rollasjeans.com/au/products/westcoast-ankle-dusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/westcoast-ankle-kylie-blue",
+        "destination": "https://rollasjeans.com/au/products/westcoast-ankle-kylie-blue",
+        "permanent": true
+    },
+    {
+        "source": "/westcoast-ankle-kylie-worn",
+        "destination": "https://rollasjeans.com/au/products/westcoast-ankle-kylie-worn",
+        "permanent": true
+    },
+    {
+        "source": "/westcoast-ankle-raven",
+        "destination": "https://rollasjeans.com/au/products/westcoast-ankle-raven",
+        "permanent": true
+    },
+    {
+        "source": "/womens",
+        "destination": "https://rollasjeans.com/au/collections/womens",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/dresses",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-dresses",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/jackets",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/knitwear",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-knits",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/one-piece",
+        "destination": "https://rollasjeans.com/au/collections/womens",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/pants",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-pants",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/shorts",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-shorts",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/skirts",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-skirts",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/tops",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-tops",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/best-sellers",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-best-sellers",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/flares",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-flare",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/love-letters-to-ondine",
+        "destination": "https://rollasjeans.com/au/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/new-york-city",
+        "destination": "https://rollasjeans.com/au/collections/womens-new-york-city",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/straight-jeans",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-straight",
+        "permanent": true
+    },
+    {
+        "source": "/womens/jeans",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans",
+        "permanent": true
+    },
+    {
+        "source": "/womens/jeans/classic-straight",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-straight",
+        "permanent": true
+    },
+    {
+        "source": "/womens/jeans/dusters-high-rise-non-stretch",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-dusters",
+        "permanent": true
+    },
+    {
+        "source": "/womens/jeans/eastcoast-flare",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-eastcoast-flare",
+        "permanent": true
+    },
+    {
+        "source": "/womens/jeans/eastcoast-high-rise-skinny",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-eastcoast",
+        "permanent": true
+    }
+]

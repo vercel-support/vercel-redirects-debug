@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "next": "9.5.5",
+    "next-offline": "^5.0.2",
+    "next-optimized-images": "^2.6.2",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   }
