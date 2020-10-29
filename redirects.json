@@ -5045,8 +5045,13 @@
         "destination": "https://rollasjeans.com/au/collections/womens-jeans-dusters",
         "permanent": true
     },
-        {
+    {
         "source": "/womens/jeans/dusters-high-rise-non-stretch-test",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-dusters",
+        "permanent": true
+    },
+    {
+        "source": "/womens/jeans/dusters-high-rise-non-stretch-test-test",
         "destination": "https://rollasjeans.com/au/collections/womens-jeans-dusters",
         "permanent": true
     }
