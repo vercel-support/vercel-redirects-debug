@@ -3634,5 +3634,355 @@
         "source": "/us/eastcoast-crop-flare-cindy-blue",
         "destination": "https://rollasjeans.com/us/products/eastcoast-crop-flare-cindy-blue",
         "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-ava-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-ava-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-bordeaux-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-bordeaux-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-brown-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-brown-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-french-blue-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-french-blue-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-galaxy-black",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-heather-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-heather-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-karen-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-karen-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-lilac-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-lilac-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-midnight-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-midnight-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-overall",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-overall-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-overall-eco-judy-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-overall-eco-judy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-overall-galaxy-black",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-overall-galaxy-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-overall-sadie-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-overall-sadie-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-seagrass-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-seagrass-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-tan-cord",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-tan-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/eastcoast-flare-tash-blue",
+        "destination": "https://rollasjeans.com/us/products/eastcoast-flare-tash-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/ella-blouse-golden-flowers",
+        "destination": "https://rollasjeans.com/us/products/l-s-ella-rambling-rose-blouse-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/ella-daisies-blouse",
+        "destination": "https://rollasjeans.com/us/products/ella-daisies-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/us/ella-rose-garden-blouse-blue",
+        "destination": "https://rollasjeans.com/us/products/ella-rose-garden-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/us/elle-jean-eva-blue",
+        "destination": "https://rollasjeans.com/us/products/elle-jean-eva-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/elle-jean-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/elle-jean-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/erin-coast-floral-dress",
+        "destination": "https://rollasjeans.com/us/products/erin-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/erin-rambling-rose-dress",
+        "destination": "https://rollasjeans.com/us/products/erin-rambling-rose-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/eve-linen-dress",
+        "destination": "https://rollasjeans.com/us/products/eve-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/eve-linen-dress-olive",
+        "destination": "https://rollasjeans.com/us/products/eve-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/eve-tapestry-dress-multi",
+        "destination": "https://rollasjeans.com/us/products/eve-tapestry-dress-multi",
+        "permanent": true
+    },
+    {
+        "source": "/us/eve-top-mini-spot",
+        "destination": "https://rollasjeans.com/us/products/eve-top-mini-spot-brown",
+        "permanent": true
+    },
+    {
+        "source": "/us/fader-stripe-tee-ink",
+        "destination": "https://rollasjeans.com/us/products/fader-stripe-tee",
+        "permanent": true
+    },
+    {
+        "source": "/us/fits-guide",
+        "destination": "https://rollasjeans.com/us/pages/womens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/us/fits-guide-detail-men",
+        "destination": "https://rollasjeans.com/pages/mens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/us/fits-guide-men",
+        "destination": "https://rollasjeans.com/us/pages/mens-denim-fit-guide",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-flock-tee-trade-blue",
+        "destination": "https://rollasjeans.com/us/products/fosters-flock-tee-trade-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-lager-bucket-hat-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/fosters-lager-bucket-hat-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-lager-bucket-hat-washed-blue",
+        "destination": "https://rollasjeans.com/us/products/fosters-lager-bucket-hat-washed-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-lager-cord-cap-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/fosters-lager-cord-cap-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/fosters-lager-washed-tank-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/fosters-lager-washed-tank-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/gabby-slouch-blazer",
+        "destination": "https://rollasjeans.com/us/products/gabby-slouch-blazer",
+        "permanent": true
+    },
+    {
+        "source": "/us/gift-card",
+        "destination": "https://rollasjeans.com/us/",
+        "permanent": true
+    },
+    {
+        "source": "/us/halter-coast-floral-dress",
+        "destination": "https://rollasjeans.com/us/products/halter-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/halter-daisies-dress",
+        "destination": "https://rollasjeans.com/us/products/halter-daisies-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/halter-dress-mini-spot",
+        "destination": "https://rollasjeans.com/us/products/halter-dress-mini-spot-brown",
+        "permanent": true
+    },
+    {
+        "source": "/us/heidi-pant-grandpa-check",
+        "destination": "https://rollasjeans.com/us/products/heidi-pant-grandpa-check",
+        "permanent": true
+    },
+    {
+        "source": "/us/high-mini-comfort-shadow",
+        "destination": "https://rollasjeans.com/us/products/high-mini-comfort-shadow",
+        "permanent": true
+    },
+    {
+        "source": "/us/high-mini-old-blue",
+        "destination": "https://rollasjeans.com/us/products/high-mini",
+        "permanent": true
+    },
+    {
+        "source": "/us/high-mini-pam-blue",
+        "destination": "https://rollasjeans.com/us/products/high-mini",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-check-pant-navy-cream",
+        "destination": "https://rollasjeans.com/us/products/horizon-check-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-cord-pant",
+        "destination": "https://rollasjeans.com/us/products/horizon-cord-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-linen-pant-hot-pink",
+        "destination": "https://rollasjeans.com/us/products/horizon-linen-pant-hot-pink",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-linen-pant-natural",
+        "destination": "https://rollasjeans.com/us/products/horizon-linen-pant-natural",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-linen-short-stone",
+        "destination": "https://rollasjeans.com/us/products/horizon-linen-short-stone",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-playsuit",
+        "destination": "https://rollasjeans.com/us/products/horizon-playsuit",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-playsuit-black",
+        "destination": "https://rollasjeans.com/us/products/horizon-playsuit-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/horizon-short",
+        "destination": "https://rollasjeans.com/us/products/horizon-short-belle-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/instagram",
+        "destination": "https://rollasjeans.com/instagram/rollasjeans",
+        "permanent": true
+    },
+    {
+        "source": "/us/instagram/",
+        "destination": "https://rollasjeans.com/instagram/rollasjeans",
+        "permanent": true
+    },
+    {
+        "source": "/us/jane-stripe-slouch-shirt-ocean",
+        "destination": "https://rollasjeans.com/us/products/jane-stripe-slouch-shirt-ocean",
+        "permanent": true
+    },
+    {
+        "source": "/us/jasmine-linen-dress-cream",
+        "destination": "https://rollasjeans.com/us/products/jasmine-linen-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/jasmine-rose-garden-dress-blue",
+        "destination": "https://rollasjeans.com/us/products/jasmine-rose-garden-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/l-s-ella-rambling-rose-blouse-french-blue",
+        "destination": "https://rollasjeans.com/us/products/l-s-ella-rambling-rose-blouse-french-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/l-s-roxy-dress-black-cord",
+        "destination": "https://rollasjeans.com/us/products/l-s-roxy-dress-black-cord",
+        "permanent": true
+    },
+    {
+        "source": "/us/laura-sweater-rolla-s-blue",
+        "destination": "https://rollasjeans.com/us/products/laura-sweater-rolla-s-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/laura-sweater-vanilla",
+        "destination": "https://rollasjeans.com/us/products/laura-sweater-vanilla",
+        "permanent": true
+    },
+    {
+        "source": "/us/linen-milla-tank-dress",
+        "destination": "https://rollasjeans.com/us/products/linen-milla-tank-dress-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/love-letters-to-ondine",
+        "destination": "https://rollasjeans.com/us/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/us/love-letters-to-ondine/",
+        "destination": "https://rollasjeans.com/us/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/us/melb-bitter-flock-tee-burgundy",
+        "destination": "https://rollasjeans.com/us/products/melb-bitter-flock-tee-burgundy",
+        "permanent": true
+    },
+    {
+        "source": "/us/melbourne-bitter-washed-tank-vintage-red",
+        "destination": "https://rollasjeans.com/us/products/melbourne-bitter-washed-tank-vintage-red",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-cord-shirt",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-cord-shirt-moss",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-hemp-denim-shirt",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-shirts",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-herringbone-shirt",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-herringbone-shirt",
+        "permanent": true
     }
 ]
