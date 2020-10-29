@@ -1,7 +1,6 @@
 const path = require('path');
 const withOptimizedImages = require('next-optimized-images');
 const withOffline = require('next-offline');
-const redirects = require('./redirects.json');
 
 const nextConfig = {
     target: 'serverless',
@@ -56,9 +55,6 @@ const nextConfig = {
         config.resolve.alias.gql = path.join(__dirname, 'gql');
 
         return config;
-    },
-    async redirects() {
-        return redirects;
     },
     async rewrites() {
         return [
