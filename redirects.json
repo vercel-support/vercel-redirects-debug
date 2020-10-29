@@ -4969,5 +4969,80 @@
         "source": "/womens/apparel/dresses",
         "destination": "https://rollasjeans.com/au/collections/womens-clothing-dresses",
         "permanent": true
+    },
+    {
+        "source": "/womens/apparel/jackets",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/knitwear",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-knits",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/one-piece",
+        "destination": "https://rollasjeans.com/au/collections/womens",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/pants",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-pants",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/shorts",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-shorts",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/skirts",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-skirts",
+        "permanent": true
+    },
+    {
+        "source": "/womens/apparel/tops",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-tops",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/best-sellers",
+        "destination": "https://rollasjeans.com/au/collections/womens-clothing-best-sellers",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/flares",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-flare",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/love-letters-to-ondine",
+        "destination": "https://rollasjeans.com/au/collections/womens-love-letters-to-ondine",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/new-york-city",
+        "destination": "https://rollasjeans.com/au/collections/womens-new-york-city",
+        "permanent": true
+    },
+    {
+        "source": "/womens/collections/straight-jeans",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-straight",
+        "permanent": true
+    },
+    {
+        "source": "/womens/jeans",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans",
+        "permanent": true
+    },
+    {
+        "source": "/womens/jeans/classic-straight",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-straight",
+        "permanent": true
+    },
+    {
+        "source": "/womens/jeans/dusters-high-rise-non-stretch",
+        "destination": "https://rollasjeans.com/au/collections/womens-jeans-dusters",
+        "permanent": true
     }
 ]
