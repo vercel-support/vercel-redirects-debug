@@ -1,11 +1,6 @@
 {
     "redirects": [
     {
-        "source": "/nz/:path*",
-        "destination": "/au/:path*",
-        "permanent": true
-    },
-    {
         "source": "/catalog/product/view/id/11549/s/classic-straight-90s-blue/",
         "destination": "/au/products/classic-straight-90-s-blue",
         "permanent": true
