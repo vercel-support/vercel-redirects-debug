@@ -1,4 +1,5 @@
-[
+{
+    "redirects": [
     {
         "source": "/nz/:path*",
         "destination": "/au/:path*",
@@ -5056,3 +5057,4 @@
         "permanent": true
     }
 ]
+}
