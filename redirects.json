@@ -3984,5 +3984,415 @@
         "source": "/us/men-at-work-herringbone-shirt",
         "destination": "https://rollasjeans.com/us/products/men-at-work-herringbone-shirt",
         "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-l-s-stripe-shirt",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-l-s-stripe-shirt-trade-green",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-linen-shirt-black",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-linen-shirt-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-shirt-paisley-bedford",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-shirt-paisley-bedford",
+        "permanent": true
+    },
+    {
+        "source": "/us/men-at-work-ss-herringbone-shirt",
+        "destination": "https://rollasjeans.com/us/products/men-at-work-herringbone-shirt-deep-water",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens",
+        "destination": "https://rollasjeans.com/us/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/accessories",
+        "destination": "https://rollasjeans.com/us/collections/mens-accessories",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/fleece",
+        "destination": "https://rollasjeans.com/us/collections/mens",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/jackets",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-jackets",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/overalls",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-overalls",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/pants",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-pants",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/shirts",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-shirts",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/shorts",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-shorts",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/apparel/t-shirts",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-tees",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/collections/best-sellers",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-best-sellers",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/collections/pub-rock",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-pub-rock",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/collections/sale",
+        "destination": "https://rollasjeans.com/us/collections/mens-clothing-sale",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans/relaxo",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans-relaxo",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans/rollies",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans-rollies",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans/stinger",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans-stinger",
+        "permanent": true
+    },
+    {
+        "source": "/us/mens/jeans/tim-slims",
+        "destination": "https://rollasjeans.com/us/collections/mens-jeans-tim-slims",
+        "permanent": true
+    },
+    {
+        "source": "/us/midsummer-mini-tulips-dress",
+        "destination": "https://rollasjeans.com/us/products/midsummer-mini-tulips-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/milla-coast-floral-dress",
+        "destination": "https://rollasjeans.com/us/products/milla-coast-floral-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/milla-daisies-dress-olive",
+        "destination": "https://rollasjeans.com/us/products/milla-daisies-dress",
+        "permanent": true
+    },
+    {
+        "source": "/us/miller-rib-tank",
+        "destination": "https://rollasjeans.com/us/products/miller-rib-tank",
+        "permanent": true
+    },
+    {
+        "source": "/us/miller-rib-tank-grey-marle",
+        "destination": "https://rollasjeans.com/us/products/miller-rib-tank-grey-marle",
+        "permanent": true
+    },
+    {
+        "source": "/us/miller-tee",
+        "destination": "https://rollasjeans.com/us/products/miller-tee-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/miller-tee-white",
+        "destination": "https://rollasjeans.com/us/products/miller-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/monarch-blouse",
+        "destination": "https://rollasjeans.com/us/products/monarch-blouse",
+        "permanent": true
+    },
+    {
+        "source": "/us/morrison-cord-jacket",
+        "destination": "https://rollasjeans.com/us/products/morrison-cord-jacket-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/morrison-sherpa",
+        "destination": "https://rollasjeans.com/us/products/morrison-sherpa-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/morrison-sherpa-jacket-honey",
+        "destination": "https://rollasjeans.com/us/products/morrison-sherpa-jacket-honey",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-check-pant",
+        "destination": "https://rollasjeans.com/us/products/old-mate-check-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-jean-nancy-white",
+        "destination": "https://rollasjeans.com/us/products/old-mate-jean-nancy-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-jean-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/old-mate-jean-nancy-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-logo-tee-fast-time-stripe",
+        "destination": "https://rollasjeans.com/us/products/old-mate-logo-tee-fast-time-stripe",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-overall-stella-blues",
+        "destination": "https://rollasjeans.com/us/products/old-mate-overall-stella-blues",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-overall-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/old-mate-overall-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-pant-bay-blue-stripe",
+        "destination": "https://rollasjeans.com/us/products/old-mate-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-pant-ink-stripe",
+        "destination": "https://rollasjeans.com/us/products/old-mate-pant",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-stripe-logo-tee",
+        "destination": "https://rollasjeans.com/us/products/old-mate-stripe-logo-tee-multi-stripe",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-tee-sulphur-black",
+        "destination": "https://rollasjeans.com/us/products/old-mate-tee-sulphur-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-mate-washed-logo-tee-charcoal-red",
+        "destination": "https://rollasjeans.com/us/products/old-mate-washed-logo-tee-charcoal",
+        "permanent": true
+    },
+    {
+        "source": "/us/old-school-rolla-s-jeans-tee",
+        "destination": "https://rollasjeans.com/us/products/old-school-rolla-s-jeans-tee-moss",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-short-big-sur",
+        "destination": "https://rollasjeans.com/us/products/original-short-big-sur",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-short-city-bleach",
+        "destination": "https://rollasjeans.com/us/products/original-short-city-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-short-comfort-shadow",
+        "destination": "https://rollasjeans.com/us/products/original-short-comfort-shadow",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-short-vintage-white",
+        "destination": "https://rollasjeans.com/us/products/original-short-vintage-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-straight-cindy-blue",
+        "destination": "https://rollasjeans.com/us/products/original-straight-cindy-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-straight-comfort-sky",
+        "destination": "https://rollasjeans.com/us/products/original-straight-comfort-sky",
+        "permanent": true
+    },
+    {
+        "source": "/us/original-straight-sunday-blue",
+        "destination": "https://rollasjeans.com/us/products/original-straight-sunday-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/party-with-sofia-richie",
+        "destination": "https://rollasjeans.com/us/pages/sofia-richie",
+        "permanent": true
+    },
+    {
+        "source": "/us/patch-denim-sailor-jumpsuit-beach-blue",
+        "destination": "https://rollasjeans.com/us/products/patch-denim-sailor-jumpsuit",
+        "permanent": true
+    },
+    {
+        "source": "/us/patch-denim-shirt",
+        "destination": "https://rollasjeans.com/us/products/patch-denim-shirt",
+        "permanent": true
+    },
+    {
+        "source": "/us/polar-fleece-zip-neck",
+        "destination": "https://rollasjeans.com/us/products/polar-fleece-zip-neck",
+        "permanent": true
+    },
+    {
+        "source": "/us/recycled-cotton-tee",
+        "destination": "https://rollasjeans.com/us/products/recycled-cotton-tee-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-cali-bleach",
+        "destination": "https://rollasjeans.com/us/products/relaxo-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-black-fade",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-black-fade",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-cali-bleach",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-cali-bleach",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-eco-best-blue",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-eco-best-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-original-stone",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-original-stone",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-chop-trusty-black",
+        "destination": "https://rollasjeans.com/us/products/relaxo-chop-trusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-cord-pant-sandman",
+        "destination": "https://rollasjeans.com/us/products/relaxo-cord-pant-sandman",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-cropped-pant",
+        "destination": "https://rollasjeans.com/us/products/relaxo-cropped-pant-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-cropped-pant-sandman",
+        "destination": "https://rollasjeans.com/us/products/relaxo-cropped-pant-sandman",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-eco-best-blue",
+        "destination": "https://rollasjeans.com/us/products/relaxo-eco-best-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-original-stone",
+        "destination": "https://rollasjeans.com/us/products/relaxo-original-stone",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-short-great-white",
+        "destination": "https://rollasjeans.com/us/products/relaxo-short-great-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-short-trusty-blue",
+        "destination": "https://rollasjeans.com/us/products/relaxo-short-trusty-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-trusty-black",
+        "destination": "https://rollasjeans.com/us/products/relaxo-trusty-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/relaxo-young-black",
+        "destination": "https://rollasjeans.com/us/products/relaxo-young-black",
+        "permanent": true
+    },
+    {
+        "source": "/us/returns",
+        "destination": "https://rollasjeans.com/us/pages/returns",
+        "permanent": true
+    },
+    {
+        "source": "/us/rochelle-bustier",
+        "destination": "https://rollasjeans.com/us/products/rochelle-bustier",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-desert-tee",
+        "destination": "https://rollasjeans.com/us/products/rolla-s-desert-tee-yellow",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-fosters-biiter-hat-trade-blue",
+        "destination": "https://rollasjeans.com/us/products/rollas-fosters-bitter-hat-trade-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-reds-big-logo-tee",
+        "destination": "https://rollasjeans.com/us/products/rolla-s-reds-big-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-reds-big-logo-tee-black-stone",
+        "destination": "https://rollasjeans.com/us/products/rolla-s-reds-big-logo-tee",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollas-retro-logo-tee",
+        "destination": "https://rollasjeans.com/us/products/rollas-retro-logo-tee-off-white",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollies-bold-blue",
+        "destination": "https://rollasjeans.com/us/products/rollies-bold-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollies-bondi-blue",
+        "destination": "https://rollasjeans.com/us/products/rollies-bondi-blue",
+        "permanent": true
+    },
+    {
+        "source": "/us/rollies-hard-on-black",
+        "destination": "https://rollasjeans.com/us/products/rollies-hard-on-black",
+        "permanent": true
     }
 ]
